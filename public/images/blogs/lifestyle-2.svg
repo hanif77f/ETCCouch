@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g89921414" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#e04b8e"/><stop offset="100%" stop-color="#a02e61"/></linearGradient>
+    <radialGradient id="g89921414r" cx="80%" cy="20%" r="75%">
+      <stop offset="0%" stop-color="white" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g89921414)"/>
+  <rect width="800" height="500" fill="url(#g89921414r)"/>
+  <circle cx="96.0" cy="425.0" r="250.0" fill="white" opacity="0.05"/>
+  <g transform="translate(624.0,190.0) scale(2.380952380952381)"><circle cx="0" cy="-6" r="30" fill="none" stroke="white" stroke-width="4" opacity="0.9"/><path d="M-30,-6 A30,30 0 0 0 30,-6" fill="none" stroke="white" stroke-width="4" opacity="0.9"/><line x1="0" y1="24" x2="0" y2="40" stroke="white" stroke-width="4" opacity="0.9"/><line x1="-14" y1="40" x2="14" y2="40" stroke="white" stroke-width="4" opacity="0.9"/></g>
+  
+      <rect x="28" y="26" width="85.5" height="30" rx="15" fill="white" opacity="0.16"/>
+      <text x="70.75" y="46" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="white" text-anchor="middle">LIFESTYLE</text>
+  <text x="28" y="470" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" fill="white">Weekend Trips Under 3 Hours Away</text>
+  
+</svg>

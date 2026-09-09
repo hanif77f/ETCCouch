@@ -1,0 +1,257 @@
+@import "tailwindcss";
+@import "./games.css";
+
+:root {
+  --background: #ffffff;
+  --foreground: #16121f;
+
+  --brand: #7c3aed;
+  --brand-dark: #5b21b6;
+  --brand-light: #ede9fe;
+
+  --cream: #f6f1ea;
+  --ink: #16121f;
+  --muted: #6b6470;
+
+  --footer-bg: #ffffff;
+  --footer-border: #eee7f5;
+
+  --font-body: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji";
+  --font-display: Georgia, "Times New Roman", "Playfair Display", serif;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-brand: var(--brand);
+  --color-brand-dark: var(--brand-dark);
+  --color-brand-light: var(--brand-light);
+  --color-cream: var(--cream);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-footer-bg: var(--footer-bg);
+  --color-footer-border: var(--footer-border);
+  --color-bg: rgb(var(--bg));
+  --color-surface: rgb(var(--surface));
+  --color-card: rgb(var(--card));
+  --color-border: rgb(var(--border));
+  --color-fg: rgb(var(--fg));
+  --color-accent: rgb(var(--accent));
+  --color-accent-strong: rgb(var(--accent-strong));
+  --color-accent-fg: rgb(var(--accent-fg));
+  --color-accent-soft: rgb(var(--accent-soft));
+  --color-pine: rgb(var(--pine));
+  --color-lcd: rgb(var(--lcd));
+  --color-link: rgb(var(--link));
+  --color-frame: rgb(var(--frame));
+  --color-frame-hi: rgb(var(--frame-hi));
+  --color-brandbar: rgb(var(--brandbar));
+  --color-brandbar-2: rgb(var(--brandbar-2));
+  --color-brandbar-border: rgb(var(--brandbar-border));
+  --color-brandbar-fg: rgb(var(--brandbar-fg));
+  --color-brandbar-muted: rgb(var(--brandbar-muted));
+
+  --font-sans: var(--font-body);
+  --font-serif: var(--font-display);
+
+  --shadow-soft: 0 1px 2px rgba(32, 22, 51, 0.04), 0 8px 24px -12px rgba(32, 22, 51, 0.18);
+  --shadow-card: 0 1px 3px rgba(32, 22, 51, 0.06), 0 14px 40px -18px rgba(32, 22, 51, 0.22);
+  --shadow-lift: 0 2px 6px rgba(32, 22, 51, 0.08), 0 24px 48px -20px rgba(32, 22, 51, 0.3);
+
+  --animate-fade-in-up: game-fade-in-up 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes game-fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body), Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3,
+.font-display {
+  font-family: var(--font-display), Georgia, "Times New Roman", serif;
+}
+
+.container-page {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.section-heading {
+  position: relative;
+  padding-left: 0.85rem;
+  font-weight: 700;
+  font-size: 1.15rem;
+}
+
+.section-heading::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.15rem;
+  bottom: 0.15rem;
+  width: 4px;
+  border-radius: 2px;
+  background: var(--brand);
+}
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.privacy-policy {
+  max-width: 1140px;
+  color: #403a47;
+  font-size: 0.9rem;
+  line-height: 1.72;
+}
+
+.privacy-policy section + section {
+  margin-top: 1.8rem;
+}
+
+.privacy-policy h2 {
+  margin-bottom: 0.65rem;
+  color: var(--ink);
+  font-family: var(--font-body), Arial, Helvetica, sans-serif;
+  font-size: 1.35rem;
+  font-weight: 800;
+  line-height: 1.3;
+}
+
+.privacy-policy h3 {
+  margin-top: 1rem;
+  margin-bottom: 0.35rem;
+  color: var(--ink);
+  font-family: var(--font-body), Arial, Helvetica, sans-serif;
+  font-size: 1.05rem;
+  font-weight: 800;
+  line-height: 1.4;
+}
+
+.privacy-policy p + p,
+.privacy-policy ul + p,
+.privacy-policy p + ul {
+  margin-top: 0.55rem;
+}
+
+.privacy-policy ul {
+  padding-left: 1.4rem;
+  list-style: disc;
+}
+
+.privacy-policy li {
+  padding-left: 0.15rem;
+}
+
+.privacy-policy a {
+  color: var(--brand-dark);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.privacy-policy address {
+  margin-top: 0.6rem;
+  font-style: normal;
+}
+
+@media (min-width: 640px) {
+  .privacy-policy {
+    font-size: 0.95rem;
+  }
+
+  .privacy-policy h2 {
+    font-size: 1.5rem;
+  }
+}
+
+/* Long-form content pages (About, Terms, Privacy, FAQs) — hand-styled since
+   no typography plugin is installed. Wrap plain semantic HTML in
+   `.prose-page`. */
+.prose-page h2 {
+  font-family: var(--font-display), Georgia, serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: var(--ink);
+  margin-top: 2.75rem;
+  margin-bottom: 1rem;
+  scroll-margin-top: 6rem;
+}
+
+.prose-page h2:first-child {
+  margin-top: 0;
+}
+
+.prose-page h3 {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: var(--ink);
+  margin-top: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.prose-page p {
+  font-size: 0.95rem;
+  line-height: 1.8;
+  color: rgba(22, 18, 31, 0.85);
+  margin-bottom: 1.1rem;
+}
+
+.prose-page ul,
+.prose-page ol {
+  margin: 0 0 1.25rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  font-size: 0.95rem;
+  line-height: 1.75;
+  color: rgba(22, 18, 31, 0.85);
+}
+
+.prose-page ul {
+  list-style: disc;
+}
+
+.prose-page ol {
+  list-style: decimal;
+}
+
+.prose-page a {
+  color: var(--brand);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.prose-page strong {
+  font-weight: 700;
+  color: var(--ink);
+}

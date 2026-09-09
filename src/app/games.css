@@ -1,0 +1,312 @@
+
+/* ============================================================
+   Brand theme — PRIMARY #6232AA (rgb 98 50 170)
+   RGB triplets so tokens work with Tailwind's <alpha-value>.
+   Single fixed light theme — no dark mode.
+   ============================================================ */
+.games-surface {
+  --bg: 252 250 255;          /* near-white with a violet cast */
+  --bg2: 226 213 246;         /* soft highlight */
+  --surface: 237 229 250;
+  --card: 255 255 255;        /* clean panel */
+  --border: 199 182 231;
+  --fg: 32 22 51;             /* deep plum ink */
+  --game-muted: 100 88 126;
+  --accent: 98 50 170;        /* PRIMARY #6232AA */
+  --accent-strong: 74 34 134;
+  --accent-fg: 255 255 255;
+  --accent-soft: 229 219 247;
+  --lcd: 167 139 250;         /* violet readout */
+  --pine: 124 77 196;
+  --link: 98 50 170;          /* primary-colored hyperlink */
+
+  /* Control button (dark glossy plaque) */
+  --ctrl-top: 122 84 186;
+  --ctrl-bottom: 66 32 118;
+  --ctrl-fg: 246 241 255;
+
+  /* Board squares — lavender / violet */
+  --sq-light: 233 226 248;
+  --sq-dark: 149 116 202;
+  --frame: 98 50 170;
+  --frame-hi: 143 99 214;
+
+  /* Fixed header/footer bar */
+  --brandbar: 52 25 92;
+  --brandbar-2: 82 42 141;
+  --brandbar-border: 34 16 62;
+  --brandbar-fg: 245 240 255;
+  --brandbar-muted: 198 183 229;
+
+  /* Board stage — light base + soft violet→mint gradient wash.
+     The gradient colors are low-alpha, so they need a light base underneath. */
+  --board-bg: 255 255 255;
+  --board-gradient: linear-gradient(157deg, #5100FF1C 0%, #29F2D00D 100%);
+  /* Ink used on the light stage (labels, clocks, readouts) */
+  --board-fg: 40 26 72;
+  --board-muted: 104 92 130;
+  --board-lcd: 81 0 255;
+}
+
+@layer base {
+  .games-surface {
+    color: rgb(var(--fg));
+  }
+  .games-surface h1,
+  .games-surface h2,
+  .games-surface h3 {
+    font-family: var(--font-display), ui-serif, Georgia, serif;
+    letter-spacing: -0.01em;
+  }
+  .games-surface ::selection {
+    background: rgb(var(--accent) / 0.28);
+  }
+}
+
+@layer components {
+  /* ---- Site background — flat color, no image ---- */
+  .wood-surface {
+    background-color: rgb(var(--bg));
+  }
+
+  /* ---- Game board stage — gradient wash, independent of the site bg ----
+     The stage is light, so the brandbar text tokens used by the labels /
+     clocks inside it are re-scoped here to dark ink. Everything nested under
+     .board-surface inherits these automatically. */
+  .board-surface {
+    background-color: rgb(var(--board-bg));
+    background-image: var(--board-gradient);
+    --brandbar-fg: var(--board-fg);
+    --brandbar-muted: var(--board-muted);
+    --lcd: var(--board-lcd);
+  }
+
+  /* Status readout plate on the light stage — frosted white instead of black */
+  .board-surface .lcd-plate {
+    background: linear-gradient(180deg, rgb(255 255 255 / 0.78), rgb(255 255 255 / 0.55));
+    box-shadow:
+      inset 0 1px 3px rgb(0 0 0 / 0.10),
+      inset 0 0 0 1px rgb(var(--board-fg) / 0.12),
+      0 1px 0 rgb(255 255 255 / 0.6);
+  }
+
+  /* Softer glow for the dark readout text on a light plate */
+  .board-surface .lcd {
+    text-shadow: 0 0 1px rgb(var(--board-lcd) / 0.35);
+  }
+
+  /* ---- Raised wooden panel (cards, drawers) ---- */
+  .wood-panel {
+    background-color: rgb(var(--card));
+    background-image:
+      repeating-linear-gradient(
+        88deg,
+        rgba(0, 0, 0, 0.035) 0px, rgba(0, 0, 0, 0.035) 1px,
+        transparent 1px, transparent 6px
+      ),
+      linear-gradient(160deg, rgb(var(--bg2) / 0.35), transparent 55%);
+    box-shadow:
+      inset 0 1px 0 rgb(255 255 255 / 0.14),
+      inset 0 -2px 5px rgb(0 0 0 / 0.18),
+      0 2px 4px rgb(0 0 0 / 0.14),
+      0 18px 40px -20px rgb(0 0 0 / 0.5);
+  }
+
+  /* ---- Fixed dark-brown header/footer bar (247chess-style) ---- */
+  .brandbar {
+    background-color: rgb(var(--brandbar));
+    background-image:
+      linear-gradient(180deg, rgb(var(--brandbar-2)), rgb(var(--brandbar)) 70%),
+      repeating-linear-gradient(
+        90deg,
+        rgba(255, 255, 255, 0.035) 0px, rgba(255, 255, 255, 0.035) 1px,
+        transparent 1px, transparent 5px
+      );
+    color: rgb(var(--brandbar-fg));
+    box-shadow:
+      inset 0 1px 0 rgb(255 255 255 / 0.06),
+      inset 0 -1px 0 rgb(0 0 0 / 0.5);
+  }
+
+  /* ---- Flat parchment content box (SEO-style text sections) ---- */
+  .panel-flat {
+    background-color: rgb(var(--card));
+    border: 1px solid rgb(var(--border) / 0.6);
+    box-shadow: 0 1px 2px rgb(0 0 0 / 0.06), 0 8px 20px -14px rgb(0 0 0 / 0.35);
+  }
+
+  /* ---- Classic blue hyperlink (news / link-list style) ---- */
+  .link-classic {
+    color: rgb(var(--link));
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-color: rgb(var(--link) / 0.35);
+  }
+  .link-classic:hover {
+    text-decoration-color: rgb(var(--link) / 0.8);
+  }
+
+  /* ---- Carved board frame ---- */
+  .wood-frame {
+    background-color: rgb(var(--frame));
+    background-image:
+      repeating-linear-gradient(
+        90deg,
+        rgba(0, 0, 0, 0.16) 0px, rgba(0, 0, 0, 0.16) 1px,
+        transparent 1px, transparent 5px
+      ),
+      linear-gradient(145deg, rgb(var(--frame-hi) / 0.8), rgb(var(--frame)) 55%);
+    box-shadow:
+      inset 0 2px 0 rgb(255 255 255 / 0.18),
+      inset 0 0 0 1px rgb(0 0 0 / 0.3),
+      inset 0 -3px 6px rgb(0 0 0 / 0.4),
+      0 10px 30px -8px rgb(0 0 0 / 0.55);
+  }
+
+  /* ---- Glossy dark control plaque (home / undo / hint style) ---- */
+  .ctrl-btn {
+    color: rgb(var(--ctrl-fg));
+    background-image:
+      linear-gradient(180deg, rgb(var(--ctrl-top)), rgb(var(--ctrl-bottom)));
+    box-shadow:
+      inset 0 1px 0 rgb(255 255 255 / 0.18),
+      inset 0 -3px 6px rgb(0 0 0 / 0.5),
+      0 3px 7px rgb(0 0 0 / 0.4);
+    border: 1px solid rgb(0 0 0 / 0.35);
+  }
+  .ctrl-btn:hover {
+    box-shadow:
+      inset 0 1px 0 rgb(255 255 255 / 0.25),
+      inset 0 -3px 6px rgb(0 0 0 / 0.5),
+      0 0 0 1px rgb(var(--accent) / 0.5),
+      0 4px 10px rgb(0 0 0 / 0.45);
+  }
+  .ctrl-btn.is-active {
+    color: rgb(var(--accent-strong));
+    box-shadow:
+      inset 0 1px 0 rgb(255 255 255 / 0.2),
+      inset 0 0 0 1px rgb(var(--accent) / 0.7),
+      inset 0 -3px 6px rgb(0 0 0 / 0.5),
+      0 0 12px rgb(var(--accent) / 0.35);
+  }
+
+  /* ---- Brass/gold glossy button ---- */
+  .btn-gold {
+    color: rgb(var(--accent-fg));
+    background-image:
+      linear-gradient(180deg, rgb(var(--accent-strong)) -10%, rgb(var(--accent)) 45%, rgb(var(--accent-strong)) 130%);
+    box-shadow:
+      inset 0 1px 0 rgb(255 255 255 / 0.4),
+      inset 0 -2px 4px rgb(0 0 0 / 0.28),
+      0 3px 8px rgb(0 0 0 / 0.3);
+    border: 1px solid rgb(0 0 0 / 0.25);
+  }
+  .btn-gold:hover {
+    filter: brightness(1.06);
+  }
+
+  /* ---- Wooden secondary button ---- */
+  .btn-wood {
+    color: rgb(var(--fg));
+    background-image: linear-gradient(180deg, rgb(var(--card)), rgb(var(--surface)));
+    box-shadow:
+      inset 0 1px 0 rgb(255 255 255 / 0.16),
+      inset 0 -2px 4px rgb(0 0 0 / 0.22),
+      0 2px 5px rgb(0 0 0 / 0.22);
+    border: 1px solid rgb(var(--border));
+  }
+  .btn-wood:hover {
+    box-shadow:
+      inset 0 1px 0 rgb(255 255 255 / 0.2),
+      inset 0 -2px 4px rgb(0 0 0 / 0.22),
+      0 0 0 1px rgb(var(--accent) / 0.4),
+      0 3px 7px rgb(0 0 0 / 0.28);
+  }
+
+  /* ---- LCD digital readout ---- */
+  .lcd {
+    font-family: var(--font-mono), ui-monospace, "Courier New", monospace;
+    color: rgb(var(--lcd));
+    letter-spacing: 0.12em;
+    text-shadow:
+      0 0 5px rgb(var(--lcd) / 0.65),
+      0 0 1px rgb(var(--lcd) / 0.9);
+  }
+  .lcd-plate {
+    background: linear-gradient(180deg, rgb(0 0 0 / 0.55), rgb(0 0 0 / 0.35));
+    box-shadow:
+      inset 0 1px 3px rgb(0 0 0 / 0.6),
+      inset 0 0 0 1px rgb(0 0 0 / 0.5),
+      0 1px 0 rgb(255 255 255 / 0.08);
+  }
+}
+
+
+/* Accessible focus ring */
+.focus-ring {
+  @apply outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2;
+  --tw-ring-offset-color: rgb(var(--bg));
+}
+
+/* ---- Result popup: pop-in + celebratory confetti ---- */
+@keyframes result-pop {
+  0%   { opacity: 0; transform: translateY(14px) scale(0.94); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+@keyframes result-badge {
+  0%   { transform: scale(0.4) rotate(-12deg); opacity: 0; }
+  60%  { transform: scale(1.12) rotate(4deg); opacity: 1; }
+  100% { transform: scale(1) rotate(0); opacity: 1; }
+}
+.animate-result-pop { animation: result-pop 0.4s cubic-bezier(0.22, 1, 0.36, 1) both; }
+.animate-result-badge { animation: result-badge 0.55s cubic-bezier(0.34, 1.56, 0.64, 1) 0.08s both; }
+
+/* Right side-drawer slide-in (mobile overlay) */
+@keyframes slide-in-right {
+  from { transform: translateX(100%); }
+  to   { transform: translateX(0); }
+}
+.animate-slide-in-right { animation: slide-in-right 0.28s cubic-bezier(0.22, 1, 0.36, 1) both; }
+
+@keyframes confetti-fall {
+  0%   { transform: translateY(-10%) rotate(0deg); opacity: 1; }
+  100% { transform: translateY(560%) rotate(720deg); opacity: 0; }
+}
+.confetti-piece {
+  position: absolute;
+  top: -8px;
+  width: 8px;
+  height: 14px;
+  border-radius: 2px;
+  animation-name: confetti-fall;
+  animation-timing-function: cubic-bezier(0.4, 0.2, 0.7, 1);
+  animation-iteration-count: infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-result-pop, .animate-result-badge, .confetti-piece { animation: none !important; }
+  .confetti-piece { display: none; }
+}
+
+/* ---- Pre-game countdown: 3, 2, 1, Play! ---- */
+@keyframes countdown-fade {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes countdown-pop {
+  0%   { opacity: 0; transform: scale(0.35) rotate(-8deg); filter: blur(4px); }
+  55%  { opacity: 1; transform: scale(1.18) rotate(3deg); filter: blur(0); }
+  100% { opacity: 1; transform: scale(1) rotate(0); }
+}
+@keyframes countdown-ring {
+  from { stroke-dashoffset: 0; }
+  to   { stroke-dashoffset: 276.46; }
+}
+.animate-countdown-fade { animation: countdown-fade 0.2s ease-out both; }
+.animate-countdown-pop { animation: countdown-pop 0.6s cubic-bezier(0.34, 1.56, 0.64, 1) both; }
+.animate-countdown-ring { animation: countdown-ring 1s linear forwards; }
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-countdown-pop, .animate-countdown-ring, .animate-countdown-fade { animation: none !important; }
+}
+

@@ -1,0 +1,1248 @@
+[
+  {
+    "id": 1477,
+    "date": "2026-08-24T06:42:51",
+    "date_gmt": "2026-08-24T06:42:51",
+    "guid": {
+      "rendered": "https://entertainmentcouch.com/crosscountry-monday-timetable-birmingham-power-outage/"
+    },
+    "modified": "2026-08-24T06:42:51",
+    "modified_gmt": "2026-08-24T06:42:51",
+    "slug": "crosscountry-monday-timetable-birmingham-power-outage",
+    "status": "publish",
+    "type": "post",
+    "link": "https://entertainmentcouch.com/latest-news/crosscountry-monday-timetable-birmingham-power-outage/",
+    "title": {
+      "rendered": "CrossCountry Monday Train timetable after Birmingham outage"
+    },
+    "content": {
+      "rendered": "\u003Ch1\u003ECrossCountry plans full Monday timetable after power outage disruption\u003C/h1\u003E\n\u003Cp\u003ECrossCountry expects to restore its complete Train timetable on Monday after a power outage at its Birmingham control centre triggered widespread cancellations on Sunday. A limited return of services was planned from about 18:00 BST on Sunday evening.\u003C/p\u003E\n\u003Ch2\u003ENetwork Disruption Explained\u003C/h2\u003E\n\u003Cp\u003EThe outage affected the operator’s control functions and caused major disruption across its national network.\u003C/p\u003E\n\u003Ch3\u003EControl Centre Power Failure\u003C/h3\u003E\n\u003Cp\u003EA loss of power at the CrossCountry control centre in Birmingham led to mass service cancellations on Sunday, preventing many passengers from completing planned journeys.\u003C/p\u003E\n\u003Ch3\u003ELimited Evening Services\u003C/h3\u003E\n\u003Cp\u003EWith most facilities restored, CrossCountry said it intended to run only a small number of services from around 18:00 BST. These were mainly expected on routes towards Leicester and Derby.\u003C/p\u003E\n\u003Ch3\u003EImpact on Passengers\u003C/h3\u003E\n\u003Cp\u003ETravellers were urged to check journeys before setting out. Those delayed by at least 30 minutes may qualify for compensation, while passengers deciding not to travel can seek a refund through their original purchase point.\u003C/p\u003E\n\u003Ch2\u003EService Recovery Updates\u003C/h2\u003E\n\u003Cp\u003ERecovery work continued on Sunday evening as the operator sought to return the network to normal operation.\u003C/p\u003E\n\u003Ch3\u003ERoutes Returning\u003C/h3\u003E\n\u003Cp\u003ENational Rail said at 18:13 BST that CrossCountry trains between Peterborough, Cambridge and Stansted Airport would operate on Sunday evening. It also reported an hourly service from Birmingham New Street to Leicester and Derby.\u003C/p\u003E\n\u003Ch3\u003EOperator and Government Response\u003C/h3\u003E\n\u003Cp\u003ECrossCountry said its priority was to provide a service as close to normal as possible on Monday, working with National Grid and industry partners. Transport Secretary Heidi Alexander welcomed the planned evening services and expected Monday timetable, while thanking engineers involved in reducing disruption.\u003C/p\u003E\n\u003Ch2\u003EPassenger and Rail Sector Response\u003C/h2\u003E\n\u003Cp\u003EThe cancellations left some customers stranded and prompted calls for scrutiny of railway resilience.\u003C/p\u003E\n\u003Ch3\u003ETraveller Experience\u003C/h3\u003E\n\u003Cp\u003EAndy Burton, travelling from Cromford to Worcester after his sister’s birthday weekend, reached Derby before learning that his alternative route through Leicester had also been cancelled. With no rail option back to Worcester, he booked a budget hotel and hoped to travel via Birmingham New Street on Monday; otherwise, he said he might need an expensive taxi.\u003C/p\u003E\n\u003Ch3\u003EViews on System Resilience\u003C/h3\u003E\n\u003Cp\u003EResponses focused both on the recovery effort and on the reliability of backup arrangements.\u003C/p\u003E\n\u003Ch4\u003ERecovery Welcome\u003C/h4\u003E\n\u003Cp\u003EHeidi Alexander said she was pleased that some trains were due to operate on Sunday night and that a full timetable was anticipated on Monday.\u003C/p\u003E\n\u003Ch4\u003EBackup System Concerns\u003C/h4\u003E\n\u003Cp\u003EThe National Union of Rail, Maritime and Transport Workers, known as RMT, called for a review of operational control centres to ensure power cuts do not affect them. General secretary Eddie Dempsey said passengers and rail workers should not face another week of travel chaos because backup systems are unreliable.\u003C/p\u003E\n\u003Ch4\u003ELonger-Term Rail Plans\u003C/h4\u003E\n\u003Cp\u003EAlexander said Great British Railways is being established and services, including CrossCountry, are to be nationalised next year, with the aim of addressing fragmentation and vulnerability in the network.\u003C/p\u003E\n\u003Ch2\u003ENext Steps for Travellers\u003C/h2\u003E\n\u003Cp\u003EThe focus now is on whether planned recovery measures deliver the expected return to normal services.\u003C/p\u003E\n\u003Ch3\u003EMonday Timetable Plan\u003C/h3\u003E\n\u003Cp\u003ECrossCountry is planning to operate a full Train service on Monday, although recovery activity with National Grid and other industry partners was still under way.\u003C/p\u003E\n\u003Ch3\u003EJourney Checks and Claims\u003C/h3\u003E\n\u003Cp\u003EPassengers should continue checking live journey information before travelling. Customers affected by qualifying delays or who opt not to travel should use the operator’s stated compensation and refund arrangements.\u003C/p\u003E\n\u003Ch2\u003EFrequently Asked Questions\u003C/h2\u003E\n\u003Cp\u003EBelow are answers to common questions about the CrossCountry service disruption and planned timetable recovery.\u003C/p\u003E\n\u003Ch5\u003E1. What started the CrossCountry disruption?\u003C/h5\u003E\n\u003Cp\u003EA power outage at CrossCountry’s control centre in Birmingham affected the operator’s control functions and led to widespread cancellations across its national network on Sunday.\u003C/p\u003E\n\u003Ch5\u003E2. Why did the CrossCountry disruption attract attention?\u003C/h5\u003E\n\u003Cp\u003EThe cancellations disrupted journeys across the network, left some passengers stranded and raised concerns about the resilience of backup arrangements at railway control centres.\u003C/p\u003E\n\u003Ch5\u003E3. What are the latest updates on CrossCountry services?\u003C/h5\u003E\n\u003Cp\u003ECrossCountry planned a limited number of services from about 18:00 BST on Sunday, including trains towards Leicester and Derby. National Rail also reported services between Peterborough, Cambridge and Stansted Airport, along with an hourly service from Birmingham New Street to Leicester and Derby.\u003C/p\u003E\n\u003Ch5\u003E4. What could happen next for the Monday timetable?\u003C/h5\u003E\n\u003Cp\u003ECrossCountry expects to restore its complete Train timetable on Monday while continuing recovery work with National Grid and other industry partners. Passengers should check live journey information before travelling, and those affected by qualifying delays or choosing not to travel can use the stated compensation or refund arrangements.\u003C/p\u003E\n\u003Cp\u003E\u003Cem\u003EBased on reporting from \u003Ca href=\"https://www.bbc.co.uk/news/articles/cp8x8xglp27o\" rel=\"nofollow noopener\" target=\"_blank\"\u003Ethe original report\u003C/a\u003E.\u003C/em\u003E\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003ECrossCountry expects a full Monday Train timetable after Sunday’s Birmingham power outage; limited services were planned from 18:00 BST.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1476,
+    "comment_status": "",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [21],
+    "tags": [88, 85, 87, 89, 86],
+    "class_list": [
+      "post-1477",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-latest-news",
+      "tag-birmingham-power-outage",
+      "tag-crosscountry",
+      "tag-monday-timetable",
+      "tag-sunday-cancellations",
+      "tag-train-timetable"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1477",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/comments?post=1477"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1477/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media/1476"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media?parent=1477"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/categories?post=1477"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/tags?post=1477"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1475,
+    "date": "2026-08-23T06:42:48",
+    "date_gmt": "2026-08-23T06:42:48",
+    "guid": {
+      "rendered": "https://entertainmentcouch.com/pc-matthew-blades-pc-tom-clough-a66-crash/"
+    },
+    "modified": "2026-08-23T06:42:48",
+    "modified_gmt": "2026-08-23T06:42:48",
+    "slug": "pc-matthew-blades-pc-tom-clough-a66-crash",
+    "status": "publish",
+    "type": "post",
+    "link": "https://entertainmentcouch.com/latest-news/pc-matthew-blades-pc-tom-clough-a66-crash/",
+    "title": {
+      "rendered": "PC Matthew Blades, PC Tom Clough mourned after A66 crash"
+    },
+    "content": {
+      "rendered": "\u003Ch1\u003EPC Matthew Blades and PC Tom Clough mourned after A66 wrong-way crash\u003C/h1\u003E\n\u003Cp\u003EPC Matthew Blades, 37, and PC Tom Clough, 38, died after a wrong-way collision on the A66 near Middlesbrough. The deaths of the Cleveland Police officers, among seven people killed, have prompted tributes from police leaders and politicians.\u003C/p\u003E\n\u003Ch2\u003EFatal Collision Near Middlesbrough\u003C/h2\u003E\n\u003Cp\u003EThe crash occurred in the South Bank area on Saturday and involved a Cleveland Police vehicle.\u003C/p\u003E\n\u003Ch3\u003ECircumstances of the Crash\u003C/h3\u003E\n\u003Cp\u003EAt about 03:39 BST, a Volkswagen Passat travelling in the wrong direction struck the police vehicle. Five people in the car, described as being from their late teens to early 20s, also died. They have not been identified publicly.\u003C/p\u003E\n\u003Ch3\u003ERoad and Vehicle Details\u003C/h3\u003E\n\u003Cp\u003EThe A66 is a principal route through Teesside. The location of the collision, surrounded by industrial units and factories, remained shut on Sunday.\u003C/p\u003E\n\u003Ch3\u003EScale of the Loss\u003C/h3\u003E\n\u003Cp\u003EThe incident killed seven people in total, including the Two officers. Cleveland Police Federation chairwoman Lauren Somerville called the loss “unfathomable” and said the force family was in pain.\u003C/p\u003E\n\u003Ch2\u003EInvestigation and Force Response\u003C/h2\u003E\n\u003Cp\u003EThe Independent Office for Police Conduct is examining the events leading up to the collision.\u003C/p\u003E\n\u003Ch3\u003EPursuit Timeline Examined\u003C/h3\u003E\n\u003Cp\u003EThe watchdog said Cleveland Police had seen a suspicious vehicle and that a pursuit began. Footage from a home on Lime Road in Middlesbrough appears to show a car followed by police vehicles three minutes before the crash. The pursuit had ended before the collision, and the vehicle carrying the officers was in South Bank at the time.\u003C/p\u003E\n\u003Ch3\u003ECondolences From Leaders\u003C/h3\u003E\n\u003Cp\u003EChief Constable Victoria Fuller described an incredibly sad day for Cleveland, saying no one should leave home without returning safely. She and her deputy chief constable visited the officers’ families. IOPC investigations director Nicola Marfleet also offered thoughts to all affected.\u003C/p\u003E\n\u003Ch2\u003ETributes Across Teesside\u003C/h2\u003E\n\u003Cp\u003EPublic figures and local representatives have expressed grief and praised the officers’ service.\u003C/p\u003E\n\u003Ch3\u003EMessages From Public Figures\u003C/h3\u003E\n\u003Cp\u003EThe prime minister, home secretary and Shadow Home Secretary Chris Philp sent condolences. Andy Burnham said he was devastated. On Facebook, Tees Valley mayor Ben Houchen described a horrible and tragic incident and praised emergency workers’ bravery.\u003C/p\u003E\n\u003Ch3\u003ECommunity and Institutional Views\u003C/h3\u003E\n\u003Cp\u003ELocal representatives and policing bodies focused on the impact on families, colleagues and the communities served by the officers.\u003C/p\u003E\n\u003Ch4\u003ERecognition of Service\u003C/h4\u003E\n\u003Cp\u003EAnna Turley, MP for the Redcar constituency, said the officers went to work to keep people safe and should have returned to their families. She said their deaths would be deeply felt.\u003C/p\u003E\n\u003Ch4\u003EShared Grief\u003C/h4\u003E\n\u003Cp\u003EEston ward councillors David Taylor and Stephen Martin said they were deeply saddened by what they termed an unimaginable tragedy.\u003C/p\u003E\n\u003Ch4\u003ECall for Due Process\u003C/h4\u003E\n\u003Cp\u003EPhilp said the IOPC should be allowed time and space to carry out its investigation without speculation.\u003C/p\u003E\n\u003Ch2\u003ENext Steps in the Case\u003C/h2\u003E\n\u003Cp\u003EThe formal inquiry will determine the circumstances surrounding police contact and the fatal collision.\u003C/p\u003E\n\u003Ch3\u003EMandatory Watchdog Referral\u003C/h3\u003E\n\u003Cp\u003EA referral to the IOPC is required when someone dies following police contact. Its investigation is now under way.\u003C/p\u003E\n\u003Ch3\u003EIssues Under Review\u003C/h3\u003E\n\u003Cp\u003EThe inquiry is expected to consider the sighting of the suspicious vehicle, the pursuit and its end before the crash, as well as the circumstances in which the police vehicle was in the area.\u003C/p\u003E\n\u003Ch2\u003EFrequently Asked Questions\u003C/h2\u003E\n\u003Cp\u003EBelow are answers to common questions about the A66 wrong-way crash and the investigation that followed.\u003C/p\u003E\n\u003Ch5\u003E1. What started the events leading to the A66 wrong-way crash?\u003C/h5\u003E\n\u003Cp\u003ECleveland Police officers saw a suspicious vehicle, and a pursuit began. The pursuit had ended before a Volkswagen Passat travelling in the wrong direction collided with the police vehicle at about 03:39 BST in South Bank near Middlesbrough.\u003C/p\u003E\n\u003Ch5\u003E2. Why is the A66 wrong-way crash trending?\u003C/h5\u003E\n\u003Cp\u003EThe collision killed seven people, including Cleveland Police officers PC Matthew Blades and PC Tom Clough. Tributes from police leaders, politicians and community representatives have followed the deaths.\u003C/p\u003E\n\u003Ch5\u003E3. What are the latest updates on the investigation?\u003C/h5\u003E\n\u003Cp\u003EThe Independent Office for Police Conduct is investigating the circumstances surrounding police contact and the fatal collision. The A66 location remained closed on Sunday, while Cleveland Police leaders visited the officers’ families.\u003C/p\u003E\n\u003Ch5\u003E4. What could happen next in the case?\u003C/h5\u003E\n\u003Cp\u003EThe IOPC inquiry will examine the sighting of the suspicious vehicle, the pursuit and its conclusion, and why the police vehicle was in the area when the collision occurred. Officials have called for the investigation to proceed without speculation.\u003C/p\u003E\n\u003Cp\u003E\u003Cem\u003EBased on reporting from \u003Ca href=\"https://www.bbc.co.uk/news/articles/cdj0j8enpzyo\" rel=\"nofollow noopener\" target=\"_blank\"\u003Ethe original report\u003C/a\u003E.\u003C/em\u003E\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EPC Matthew Blades and PC Tom Clough were among seven people killed in a wrong-way crash on the A66 near Middlesbrough.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1474,
+    "comment_status": "",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [21],
+    "tags": [82, 84, 83, 80, 81],
+    "class_list": [
+      "post-1475",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-latest-news",
+      "tag-a66",
+      "tag-cleveland-police",
+      "tag-middlesbrough",
+      "tag-pc-matthew-blades",
+      "tag-pc-tom-clough"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1475",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/comments?post=1475"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1475/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media/1474"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media?parent=1475"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/categories?post=1475"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/tags?post=1475"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1471,
+    "date": "2026-08-22T06:42:46",
+    "date_gmt": "2026-08-22T06:42:46",
+    "guid": {
+      "rendered": "https://entertainmentcouch.com/search-russian-strike-kills-16-kryvyi-rih-mall-ukraine/"
+    },
+    "modified": "2026-08-22T07:09:59",
+    "modified_gmt": "2026-08-22T07:09:59",
+    "slug": "search-russian-strike-kills-16-kryvyi-rih-mall-ukraine",
+    "status": "publish",
+    "type": "post",
+    "link": "https://entertainmentcouch.com/trending-now/search-russian-strike-kills-16-kryvyi-rih-mall-ukraine/",
+    "title": {
+      "rendered": "Search: Russian strike kills 16 in Ukraine"
+    },
+    "content": {
+      "rendered": "\u003Ch1\u003ESearch continues after Russian strike kills 16 at Kryvyi Rih mall in Ukraine\u003C/h1\u003E\n\u003Cp\u003ERescuers worked overnight at the destroyed shopping centre in Kryvyi Rih after a two-stage Russian drone attack on Friday. Local authorities said Sixteen people were killed, 130 were injured and nine remained unaccounted for.\u003C/p\u003E\n\u003Ch2\u003EAttack on the shopping centre\u003C/h2\u003E\n\u003Cp\u003EThe strike hit a busy mall in the Dnipropetrovsk region and caused extensive damage that complicated the overnight recovery operation.\u003C/p\u003E\n\u003Ch3\u003ETwo-wave assault\u003C/h3\u003E\n\u003Cp\u003EPresident Volodymyr Zelensky said the attack came in two waves, with the second drone aimed at emergency personnel who had reached the scene. Footage showed the second drone hitting the mall while it was already on fire.\u003C/p\u003E\n\u003Ch3\u003ECasualties and missing people\u003C/h3\u003E\n\u003Cp\u003ERegional military chief Oleksandr Hanzha said the toll rose to 16 after a further body was recovered overnight. Twenty-three children were among those hurt, while 29 people had previously been reported in serious condition.\u003C/p\u003E\n\u003Ch3\u003EPressure on rescue operations\u003C/h3\u003E\n\u003Cp\u003EEmergency crews from four additional Ukrainian regions were sent to assist. Mayor Oleksandr Vilkul said the drones flew at extremely low altitudes and noted that some missing people were not answering calls.\u003C/p\u003E\n\u003Ch2\u003EFurther overnight strikes\u003C/h2\u003E\n\u003Cp\u003EDeadly attacks continued in several parts of Ukraine after the mall strike.\u003C/p\u003E\n\u003Ch3\u003EDeaths in other regions\u003C/h3\u003E\n\u003Cp\u003EAt least two people were reported killed in further strikes early on Saturday. A warehouse fire following a ballistic-missile alert killed one person in Kyiv, while a drone attack in Zaporizhzhia killed at least one man and injured four others.\u003C/p\u003E\n\u003Ch3\u003EStatements from both sides\u003C/h3\u003E\n\u003Cp\u003EZelensky called the mall assault “cynical and despicable”. Moscow&#8217;s defence ministry said it had struck transport infrastructure and warehouses, while the Russian military did not comment on the mall attack.\u003C/p\u003E\n\u003Ch2\u003EResponse and wider context\u003C/h2\u003E\n\u003Cp\u003EOfficial accounts underscored the human impact of the strike and placed it within a broader pattern of cross-border attacks.\u003C/p\u003E\n\u003Ch3\u003EPublicly reported reaction\u003C/h3\u003E\n\u003Cp\u003EVilkul described the attackers as “animals”, while Zelensky highlighted the alleged targeting of first responders. No separate social-media reaction was detailed in the available information.\u003C/p\u003E\n\u003Ch3\u003EAssessment of the conflict\u003C/h3\u003E\n\u003Cp\u003EThe reported developments point to the immediate rescue demands and the wider military context.\u003C/p\u003E\n\u003Ch4\u003EEmergency support\u003C/h4\u003E\n\u003Cp\u003EThe deployment of teams from four regions reflected the scale of the operation at the damaged mall.\u003C/p\u003E\n\u003Ch4\u003ECondemnation of the strike\u003C/h4\u003E\n\u003Cp\u003EUkrainian officials sharply condemned the two-wave attack and its reported effect on people responding to the first hit.\u003C/p\u003E\n\u003Ch4\u003EContinuing escalation\u003C/h4\u003E\n\u003Cp\u003EEarlier on Friday, Ukraine said it struck an oil refinery and a military airfield deep inside Russia. Kyiv says attacks on energy facilities and Wildberries warehouses are legitimate because they help fund the war.\u003C/p\u003E\n\u003Ch2\u003ENext stages of the response\u003C/h2\u003E\n\u003Cp\u003EThe immediate focus remains on finding those still missing and treating the injured.\u003C/p\u003E\n\u003Ch3\u003EOngoing recovery effort\u003C/h3\u003E\n\u003Cp\u003ESearch teams were continuing through the wreckage, with nine people reportedly missing. The number of fatalities could rise because of the serious condition of 29 victims.\u003C/p\u003E\n\u003Ch3\u003EDevelopments to monitor\u003C/h3\u003E\n\u003Cp\u003EOfficials may provide further casualty updates as work continues. The strikes follow attacks that killed four people, including three children, in Mykolaiv and two in Kharkiv on Friday, after 17 were killed in Kyiv on Thursday.\u003C/p\u003E\n\u003Ch2\u003EFrequently Asked Questions\u003C/h2\u003E\n\u003Cp\u003EBelow are answers to common questions about the Russian strike on the Kryvyi Rih mall and the continuing search operation.\u003C/p\u003E\n\u003Ch5\u003E1. What started the search after the Russian strike on the Kryvyi Rih mall in Ukraine?\u003C/h5\u003E\n\u003Cp\u003EA two-stage Russian drone attack struck a busy shopping centre in Kryvyi Rih on Friday. The first strike caused extensive damage and fire, while a second drone reportedly hit as emergency personnel were responding, prompting an overnight search for victims and survivors.\u003C/p\u003E\n\u003Ch5\u003E2. Why is the Russian strike that killed 16 people at the Kryvyi Rih mall in Ukraine drawing attention?\u003C/h5\u003E\n\u003Cp\u003EThe attack killed 16 people, injured 130 and left nine unaccounted for, according to local authorities. Twenty-three children were among those injured, and Ukrainian officials condemned the reported second strike on emergency responders.\u003C/p\u003E\n\u003Ch5\u003E3. What are the latest updates from the search at the Kryvyi Rih mall?\u003C/h5\u003E\n\u003Cp\u003ERescuers continued working through the wreckage overnight after recovering another body. Emergency crews from four additional Ukrainian regions were sent to help, while nine people remained missing and 29 injured victims had previously been reported in serious condition.\u003C/p\u003E\n\u003Ch5\u003E4. What could happen next after the strike on the Kryvyi Rih mall?\u003C/h5\u003E\n\u003Cp\u003ESearch teams are expected to continue looking for the missing and supporting the injured. Officials may issue further casualty updates, and the death toll could rise if people in serious condition do not recover. Further strikes remain part of the wider conflict context.\u003C/p\u003E\n\u003Cp\u003E\u003Cem\u003EBased on reporting from \u003Ca href=\"https://www.bbc.co.uk/news/articles/c39egw7nmk2o\" rel=\"nofollow noopener\" target=\"_blank\"\u003Ethe original report\u003C/a\u003E.\u003C/em\u003E\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003ESearch continues after Russian strike kills 16 at a Kryvyi Rih mall in Ukraine. Rescuers look for missing people after Friday&#8217;s attack.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1470,
+    "comment_status": "closed",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [21, 13],
+    "tags": [78, 79, 76, 75, 77],
+    "class_list": [
+      "post-1471",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-latest-news",
+      "category-trending-now",
+      "tag-78",
+      "tag-rescuers",
+      "tag-russian",
+      "tag-search",
+      "tag-ukraine"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1471",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/comments?post=1471"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1471/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1473,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1471/revisions/1473"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media/1470"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media?parent=1471"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/categories?post=1471"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/tags?post=1471"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1424,
+    "date": "2026-08-21T06:24:12",
+    "date_gmt": "2026-08-21T06:24:12",
+    "guid": {
+      "rendered": "https://entertainmentcouch.com/savinho-tottenham-transfer-85m/"
+    },
+    "modified": "2026-08-21T06:24:12",
+    "modified_gmt": "2026-08-21T06:24:12",
+    "slug": "savinho-tottenham-transfer-85m",
+    "status": "publish",
+    "type": "post",
+    "link": "https://entertainmentcouch.com/sports/savinho-tottenham-transfer-85m/",
+    "title": {
+      "rendered": "Savinho Tottenham Transfer: Deal Worth Up to £85m"
+    },
+    "content": {
+      "rendered": "\u003Ch1\u003ETottenham Reach Deal Worth Up to £85m for Manchester City Winger Savinho\u003C/h1\u003E\n\u003Cp\u003ETottenham have reached an agreement to sign Manchester City’s Brazilian winger Savinho in a deal initially valued at £75m. The total value could increase to £85m.\u003C/p\u003E\n\u003Ch2\u003EAgreement Reached\u003C/h2\u003E\n\u003Cp\u003EThe arrangement concerns Savinho’s proposed move from Manchester City to Tottenham.\u003C/p\u003E\n\u003Ch3\u003EInitial Value\u003C/h3\u003E\n\u003Cp\u003ETottenham have agreed a £75m deal for Savinho. That figure is the stated initial value of the agreement.\u003C/p\u003E\n\u003Ch3\u003EPotential Increase\u003C/h3\u003E\n\u003Cp\u003EThe deal could rise by a further £10m, taking its possible overall value to £85m.\u003C/p\u003E\n\u003Ch3\u003EPlayer Involved\u003C/h3\u003E\n\u003Cp\u003ESavinho is the Manchester City winger named in the agreement. He is Brazilian.\u003C/p\u003E\n\u003Ch2\u003EFinancial Terms\u003C/h2\u003E\n\u003Cp\u003EThe reported figures set out both the guaranteed starting value and the maximum amount the deal may reach.\u003C/p\u003E\n\u003Ch3\u003E£75m Starting Figure\u003C/h3\u003E\n\u003Cp\u003EThe agreement has been reached at £75m for the signing of Savinho from Manchester City.\u003C/p\u003E\n\u003Ch3\u003E£85m Maximum Value\u003C/h3\u003E\n\u003Cp\u003EA rise to £85m remains possible under the deal, meaning the potential value is higher than the £75m initial figure.\u003C/p\u003E\n\u003Ch2\u003ETransfer Overview\u003C/h2\u003E\n\u003Cp\u003ETottenham’s agreement identifies Savinho as the player they are set to sign from Manchester City.\u003C/p\u003E\n\u003Ch3\u003EMove for a Brazilian Winger\u003C/h3\u003E\n\u003Cp\u003EThe proposed signing is Savinho, a Brazilian winger currently at Manchester City. Tottenham have agreed the deal to bring him in.\u003C/p\u003E\n\u003Ch3\u003EKey Deal Details\u003C/h3\u003E\n\u003Cp\u003EThe available information centres on the clubs involved, the player’s position and nationality, and the stated financial value.\u003C/p\u003E\n\u003Ch4\u003EBuying Club\u003C/h4\u003E\n\u003Cp\u003ETottenham are the club that have agreed the deal for Savinho.\u003C/p\u003E\n\u003Ch4\u003ESelling Club\u003C/h4\u003E\n\u003Cp\u003ESavinho is being signed from Manchester City.\u003C/p\u003E\n\u003Ch4\u003EValue Range\u003C/h4\u003E\n\u003Cp\u003EThe deal is valued at £75m and could ultimately rise to £85m.\u003C/p\u003E\n\u003Ch2\u003EWhat the Agreement Means\u003C/h2\u003E\n\u003Cp\u003EThe agreed terms establish the financial framework for Savinho’s move to Tottenham.\u003C/p\u003E\n\u003Ch3\u003EBase and Potential Fee\u003C/h3\u003E\n\u003Cp\u003EThe distinction between £75m and £85m is significant: £75m is the agreed deal value, while £85m is the amount it could reach.\u003C/p\u003E\n\u003Ch3\u003ETransfer Focus\u003C/h3\u003E\n\u003Cp\u003EThe agreement is specifically for Savinho, the Brazilian winger from Manchester City, to join Tottenham.\u003C/p\u003E\n\u003Ch2\u003EFrequently Asked Questions\u003C/h2\u003E\n\u003Cp\u003EHere are answers to common questions about Tottenham’s agreement for Savinho.\u003C/p\u003E\n\u003Ch5\u003E1. What is the agreement between Tottenham and Manchester City about?\u003C/h5\u003E\n\u003Cp\u003ETottenham have reached an agreement to sign Manchester City’s Brazilian winger Savinho. The deal has an initial value of £75m and could reach £85m.\u003C/p\u003E\n\u003Ch5\u003E2. Why does the agreement matter?\u003C/h5\u003E\n\u003Cp\u003EIt sets out the financial framework for Savinho’s proposed move from Manchester City to Tottenham, including both the starting value and the possible maximum fee.\u003C/p\u003E\n\u003Ch5\u003E3. What are the key financial implications of the deal?\u003C/h5\u003E\n\u003Cp\u003EThe agreed starting figure is £75m, while the total value could rise by a further £10m to £85m. This means the final value may be higher than the initial amount.\u003C/p\u003E\n\u003Ch5\u003E4. What should readers look for next regarding the transfer?\u003C/h5\u003E\n\u003Cp\u003EReaders should distinguish between the initial £75m value and the potential £85m maximum as further information about the agreement becomes available.\u003C/p\u003E\n\u003Cp\u003E\u003Cem\u003EBased on reporting from \u003Ca href=\"https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo\" rel=\"nofollow noopener\" target=\"_blank\"\u003Ethe original report\u003C/a\u003E.\u003C/em\u003E\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003ETottenham agree a £75m deal for Manchester City winger Savinho, with the transfer potentially rising to £85m.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1423,
+    "comment_status": "",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [16],
+    "tags": [73, 74, 70, 71, 72],
+    "class_list": [
+      "post-1424",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-sports",
+      "tag-manchester-city-winger",
+      "tag-savinho-85m-deal",
+      "tag-savinho-tottenham-transfer",
+      "tag-savinho-transfer",
+      "tag-tottenham-transfer-news"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1424",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/comments?post=1424"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1424/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media/1423"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media?parent=1424"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/categories?post=1424"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/tags?post=1424"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1419,
+    "date": "2026-08-20T10:52:02",
+    "date_gmt": "2026-08-20T10:52:02",
+    "guid": {
+      "rendered": "https://entertainmentcouch.com/?p=1419"
+    },
+    "modified": "2026-08-22T05:18:29",
+    "modified_gmt": "2026-08-22T05:18:29",
+    "slug": "google-introduces-pixel-tag-a-slim-tracker-designed-to-help-users-find-lost-items",
+    "status": "publish",
+    "type": "post",
+    "link": "https://entertainmentcouch.com/blog/google-introduces-pixel-tag-a-slim-tracker-designed-to-help-users-find-lost-items/",
+    "title": {
+      "rendered": "Google Introduces Pixel Tag, a Slim Tracker Designed to Help Users Find Lost Items"
+    },
+    "content": {
+      "rendered": "\n\u003Cp class=\"wp-block-paragraph\"\u003EGoogle is expanding its Pixel ecosystem beyond smartphones and wearable devices with the introduction of the \u003Cstrong\u003EPixel Tag\u003C/strong\u003E, a small tracking device designed to help users keep track of their everyday belongings.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAccording to the product video, Pixel Tag is positioned as Google&#8217;s first dedicated finder tag, giving users a simple way to locate commonly misplaced items. The device can be attached to belongings such as keys, wallets and luggage, potentially helping users avoid the frustration of losing or misplacing important items.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003E\u003Cstrong\u003EA compact design built for everyday use\u003C/strong\u003E\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EOne of the key features highlighted in the video is the Pixel Tag&#8217;s compact and lightweight design. Google describes the tracker as \u003Cstrong\u003E&#8220;unbelievably thin&#8221; and light\u003C/strong\u003E, making it suitable for attaching to objects without adding significant bulk.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe device is also described as being made from \u003Cstrong\u003Edurable stainless steel\u003C/strong\u003E, with the material intended to withstand the wear and tear associated with everyday use.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe combination of a slim profile and metal construction could make the Pixel Tag particularly suitable for items that users carry frequently, including wallets, bags and luggage.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003E\u003Cstrong\u003EWater and dust resistance\u003C/strong\u003E\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EGoogle is also emphasizing the tracker&#8217;s durability against environmental exposure.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAccording to the product presentation, Pixel Tag is \u003Cstrong\u003Ewater- and dust-resistant\u003C/strong\u003E, giving users greater flexibility when attaching it to belongings that may be exposed to different conditions.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThis could be particularly useful for luggage and bags, which can encounter rain, dust and other elements during travel.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003E\u003Cstrong\u003EDesigned for keys, wallets and luggage\u003C/strong\u003E\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe promotional video highlights several potential use cases for Pixel Tag, including attaching the device to \u003Cstrong\u003Ekeys, wallets and luggage\u003C/strong\u003E.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe concept is straightforward: users can place the small tracker on an item they do not want to lose and use Google&#8217;s tracking ecosystem to help locate it when necessary.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EFor frequent travellers, the luggage-tracking capability could be particularly useful, allowing users to keep an additional layer of visibility over their bags while travelling.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003E\u003Cstrong\u003EUp to one year of battery life\u003C/strong\u003E\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EBattery longevity is another major feature highlighted by Google.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe company says the \u003Cstrong\u003EPixel Tag battery can last for up to a year\u003C/strong\u003E, reducing the need for frequent battery replacement.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EWhen the battery eventually runs out, users will not need to replace the entire tracker. The video says the battery can be \u003Cstrong\u003Ereplaced by the user\u003C/strong\u003E, with the process described as quick and requiring \u003Cstrong\u003Eno tools\u003C/strong\u003E.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThis approach could help extend the usable life of the device while keeping maintenance relatively simple.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003E\u003Cstrong\u003ELaunch date and pricing\u003C/strong\u003E\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAccording to the product video, \u003Cstrong\u003EPixel Tag is scheduled to launch on November 11\u003C/strong\u003E.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe advertised starting price is \u003Cstrong\u003E$29 for a single Pixel Tag\u003C/strong\u003E, while a \u003Cstrong\u003Efour-pack is priced at $99\u003C/strong\u003E.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAt those prices, the four-pack offers a lower per-device cost than purchasing four individual trackers, making it potentially attractive to households that want to track several belongings at once.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003E\u003Cstrong\u003EGoogle enters an increasingly competitive tracker market\u003C/strong\u003E\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe launch places Google in a growing market for small Bluetooth-based tracking devices designed to help consumers locate everyday possessions.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ETracking tags have become increasingly popular as smartphones have made it easier to locate misplaced belongings. Users commonly attach these devices to keys, bags, luggage and other valuable items.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EGoogle&#8217;s entry could be particularly significant because Pixel Tag can potentially become part of the broader Pixel ecosystem, giving Android and Pixel users another hardware accessory designed to work alongside their existing devices.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003E\u003Cstrong\u003EWhat Pixel Tag could mean for Pixel users\u003C/strong\u003E\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe Pixel Tag appears to be aimed at consumers looking for a relatively unobtrusive way to keep track of their possessions.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EIts combination of a \u003Cstrong\u003Ethin form factor, stainless-steel construction, water and dust resistance, replaceable one-year battery and $29 starting price\u003C/strong\u003E gives Google a product that could appeal to users who want a dedicated tracker without carrying another bulky device.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe four-pack option also suggests Google is positioning Pixel Tag as a product users can deploy across multiple belongings rather than as a single-purpose accessory.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003E\u003Cstrong\u003EThe bigger picture\u003C/strong\u003E\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe Pixel Tag represents another step in Google&#8217;s effort to build a broader hardware ecosystem around Pixel products.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EWhile smartphones remain at the centre of the Pixel range, accessories such as tracking devices can increase the number of ways users interact with Google&#8217;s ecosystem throughout the day.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EFor consumers, the most important question will ultimately be how accurately and reliably Pixel Tag can locate belongings in real-world situations. Factors such as tracking range, network coverage, integration with Android devices, location accuracy and performance in crowded environments will determine how useful the product is beyond its hardware specifications.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EFor now, Google&#8217;s message is straightforward: \u003Cstrong\u003EPixel Tag is designed to make everyday belongings easier to keep track of, while remaining small, durable and simple to maintain.\u003C/strong\u003E\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003E\u003Cstrong\u003EPixel Tag is expected to arrive on November 11, with pricing starting at $29 for one device or $99 for a four-pack, according to the promotional video provided.\u003C/strong\u003E\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EGoogle is entering the item-tracker market with Pixel Tag, a compact tracking device designed to help users locate everyday belongings such as keys, wallets and luggage. The company says the device combines a slim design, durable construction and a battery that can last up to a year.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1431,
+    "comment_status": "closed",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [1],
+    "tags": [],
+    "class_list": [
+      "post-1419",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-blog"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1419",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/comments?post=1419"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1419/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1429,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1419/revisions/1429"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media/1431"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media?parent=1419"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/categories?post=1419"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/tags?post=1419"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1365,
+    "date": "2026-08-20T06:16:05",
+    "date_gmt": "2026-08-20T06:16:05",
+    "guid": {
+      "rendered": "https://entertainmentcouch.com/harry-meghan-uk-relocation/"
+    },
+    "modified": "2026-08-20T06:16:05",
+    "modified_gmt": "2026-08-20T06:16:05",
+    "slug": "harry-meghan-uk-relocation",
+    "status": "publish",
+    "type": "post",
+    "link": "https://entertainmentcouch.com/lifestyle/harry-meghan-uk-relocation/",
+    "title": {
+      "rendered": "Harry and Meghan UK Relocation Planned This Month"
+    },
+    "content": {
+      "rendered": "\u003Ch1\u003EHarry and Meghan plan UK relocation from the US this month\u003C/h1\u003E\n\u003Cp\u003EThe Duke and Duchess of Sussex are expected to leave the United States for a private, non-royal home outside London later this month. Prince Archie, seven, and Princess Lilibet, five, are due to begin at a British school in September.\u003C/p\u003E\n\u003Ch2\u003EPlanned move to Britain\u003C/h2\u003E\n\u003Cp\u003EThe relocation would bring Harry and Meghan back to the UK after they established their home in California following their departure from royal duties in 2020.\u003C/p\u003E\n\u003Ch3\u003EPrivate residence outside London\u003C/h3\u003E\n\u003Cp\u003EThe couple intend to live at a private property outside London rather than in a royal residence. Their official position is not expected to alter, and they will continue as private individuals.\u003C/p\u003E\n\u003Ch3\u003ENo return to royal duties\u003C/h3\u003E\n\u003Cp\u003EThere are no plans for either Harry or Meghan to take up working royal responsibilities again. The Sussexes stepped away from those duties in early 2020 and moved to California in March of that year.\u003C/p\u003E\n\u003Ch3\u003EChildren set for school\u003C/h3\u003E\n\u003Cp\u003ETheir children, Prince Archie and Princess Lilibet, have been registered to start at a school in Britain in September, indicating that the family expects to be based in the UK for the beginning of the academic year.\u003C/p\u003E\n\u003Ch2\u003ERoyal family informed\u003C/h2\u003E\n\u003Cp\u003EKing Charles was notified about the intended move on Sunday, while the Prince and Princess of Wales have also been told of the plans.\u003C/p\u003E\n\u003Ch3\u003EKing welcomes private contact\u003C/h3\u003E\n\u003Cp\u003EThe King is understood not to have known about the move before last weekend. He welcomes the prospect of spending more time with the Sussex family in a personal and private setting.\u003C/p\u003E\n\u003Ch3\u003EJuly family meeting\u003C/h3\u003E\n\u003Cp\u003EHarry, Meghan and their children visited the King at Highgrove in July, although the move was not understood to have been raised then. The Palace called the Gloucestershire gathering a private family occasion. It marked the first in-person meeting between the King and his grandchildren in more than four years.\u003C/p\u003E\n\u003Ch2\u003ESecurity remains a central issue\u003C/h2\u003E\n\u003Cp\u003EProtection arrangements have been a longstanding source of disagreement for the duke, who has previously linked safety concerns to his reluctance to bring his family to Britain.\u003C/p\u003E\n\u003Ch3\u003EDecision-making process\u003C/h3\u003E\n\u003Cp\u003EA Home Office spokesperson said security decisions affecting royals are made by the Executive Committee for the Protection of Royalty and Public Figures, known as Ravec. The government described its protective-security system as rigorous and proportionate.\u003C/p\u003E\n\u003Ch3\u003EPrevious disputes over protection\u003C/h3\u003E\n\u003Cp\u003EThe planned return follows several developments concerning the Sussexes&#8217; security arrangements in the UK.\u003C/p\u003E\n\u003Ch4\u003EDowngraded arrangements\u003C/h4\u003E\n\u003Cp\u003EHarry sought to reverse the reduction in his security that followed his decision to stop working as a royal and relocate to the US with Meghan.\u003C/p\u003E\n\u003Ch4\u003ELegal challenge lost\u003C/h4\u003E\n\u003Cp\u003ELast year, the duke was unsuccessful in a legal case challenging the level of protection to which he and his family are entitled when visiting the UK.\u003C/p\u003E\n\u003Ch4\u003EJuly visit reconsidered\u003C/h4\u003E\n\u003Cp\u003EThe July trip was reconsidered after Harry&#8217;s request for police protection was refused.\u003C/p\u003E\n\u003Ch2\u003ELinks to Invictus and recent legal case\u003C/h2\u003E\n\u003Cp\u003EA return to Britain would place Harry in the country ahead of the Invictus Games in Birmingham next year, while following a recent High Court privacy ruling.\u003C/p\u003E\n\u003Ch3\u003EInvictus Games in Birmingham\u003C/h3\u003E\n\u003Cp\u003EDuring his July visit, Harry promoted the games for injured service men and women. David Wiseman, chief programmes and strategy officer at the Invictus Games Foundation, called the prospect of Harry being in the UK before the event “excellent news” and said the foundation would benefit greatly.\u003C/p\u003E\n\u003Ch3\u003EPrivacy case\u003C/h3\u003E\n\u003Cp\u003EHarry&#8217;s July trip was overshadowed by his High Court defeat in a privacy claim against Associated Newspapers, publisher of the Daily Mail and Mail on Sunday. He and other prominent figures alleged unlawful information-gathering methods, which the company strongly denied. In January, Harry told the court: “They&#8217;ve made my wife&#8217;s life an absolute misery.”\u003C/p\u003E\n\u003Ch2\u003EFrequently Asked Questions\u003C/h2\u003E\n\u003Cp\u003EBelow are some common questions readers may have about the Sussexes’ planned return to the UK.\u003C/p\u003E\n\u003Ch5\u003E1. What is Harry and Meghan’s planned UK relocation?\u003C/h5\u003E\n\u003Cp\u003EThe Duke and Duchess of Sussex are expected to leave the United States later this month and move to a private home outside London with Prince Archie and Princess Lilibet.\u003C/p\u003E\n\u003Ch5\u003E2. Why does the planned move matter?\u003C/h5\u003E\n\u003Cp\u003EIt would bring Harry and Meghan back to Britain after their move to California in 2020 and could allow their children to begin school in the UK in September. King Charles and the Prince and Princess of Wales have been informed.\u003C/p\u003E\n\u003Ch5\u003E3. What are the main implications of the relocation?\u003C/h5\u003E\n\u003Cp\u003EThe couple are expected to remain private individuals, with no return to working royal duties. The move could also enable more private family contact with the King, while security arrangements remain a significant issue.\u003C/p\u003E\n\u003Ch5\u003E4. How can readers follow developments about the move?\u003C/h5\u003E\n\u003Cp\u003EReaders can monitor official announcements and reporting on the relocation, the children’s expected September school start, and any decisions concerning the Sussexes’ security arrangements in the UK.\u003C/p\u003E\n\u003Cp\u003E\u003Cem\u003EBased on reporting from \u003Ca href=\"https://www.bbc.co.uk/news/articles/c62ey03z9d1o\" rel=\"nofollow noopener\" target=\"_blank\"\u003Ethe original report\u003C/a\u003E.\u003C/em\u003E\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EHarry and Meghan plan a UK relocation this month, with their children due to start at a British school in September.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1364,
+    "comment_status": "",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [20],
+    "tags": [69, 66, 65, 68, 67],
+    "class_list": [
+      "post-1365",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-lifestyle",
+      "tag-archie-and-lilibet-british-school",
+      "tag-harry-and-meghan-move-to-britain",
+      "tag-harry-and-meghan-uk-relocation",
+      "tag-prince-harry-meghan-markle-uk-move",
+      "tag-sussexes-uk-return"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1365",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/comments?post=1365"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1365/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media/1364"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media?parent=1365"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/categories?post=1365"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/tags?post=1365"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1154,
+    "date": "2026-08-19T06:15:48",
+    "date_gmt": "2026-08-19T06:15:48",
+    "guid": {
+      "rendered": "https://entertainmentcouch.com/2026-us-south-korea-drills-six-days-early/"
+    },
+    "modified": "2026-08-19T08:44:29",
+    "modified_gmt": "2026-08-19T08:44:29",
+    "slug": "2026-us-south-korea-drills-six-days-early",
+    "status": "publish",
+    "type": "post",
+    "link": "https://entertainmentcouch.com/trending-now/2026-us-south-korea-drills-six-days-early/",
+    "title": {
+      "rendered": "2026 US-South Korea Drills End Six Days Early"
+    },
+    "content": {
+      "rendered": "\u003Ch1\u003ESeoul to end 2026 US-South Korea drills six days earlier\u003C/h1\u003E\n\u003Cp\u003ESouth Korea will shorten its annual joint military exercise with the United States by six days after Washington requested changes, the defence ministry said. The 2026 Ulchi Freedom Shield drill is now due to finish on 21 August instead of 27 August.\u003C/p\u003E\n\u003Ch2\u003ERevised Exercise Schedule\u003C/h2\u003E\n\u003Cp\u003ESeoul said both the duration and scope of the 2026 exercise had been amended following a proposal from the US side.\u003C/p\u003E\n\u003Ch3\u003EEarlier Conclusion\u003C/h3\u003E\n\u003Cp\u003EUlchi Freedom Shield will conclude on 21 August, six days before its originally scheduled end date of 27 August.\u003C/p\u003E\n\u003Ch3\u003ESmaller Field Training Element\u003C/h3\u003E\n\u003Cp\u003EThe combined field training component will be reduced in part. South Korea said discussions continue over the precise nature of those reductions.\u003C/p\u003E\n\u003Ch3\u003EPrevious Participation Plans\u003C/h3\u003E\n\u003Cp\u003EUS and South Korean commanders had announced the exercise at a joint press conference last week, saying it would be comparable in scale with earlier years. About 18,000 South Korean troops were expected to take part.\u003C/p\u003E\n\u003Ch2\u003ETrump&#8217;s Position\u003C/h2\u003E\n\u003Cp\u003EThe decision follows Donald Trump&#8217;s announcement that he intended to scale back military exercises with South Korea, while pointing to his relationship with North Korean leader Kim Jong Un.\u003C/p\u003E\n\u003Ch3\u003EObjections Over Cost and Signals\u003C/h3\u003E\n\u003Cp\u003EIn a Truth Social post over the weekend, Trump wrote: &#8220;These exercises are not only costly, with much of these costs paid for by the United States of America (as usual!), but send a signal that is totally inappropriate and hostile.&#8221;\u003C/p\u003E\n\u003Ch3\u003EIran Linked to Drill Decision\u003C/h3\u003E\n\u003Cp\u003ETrump also said he had asked South Korea&#8217;s president whether it wished to join the denuclearisation of Iran, receiving the response, &#8220;No thanks!&#8221; In Oval Office remarks on Monday, he linked the exercise decision to South Korea&#8217;s refusal to &#8220;give us a little hand&#8221; with Iran, adding: &#8220;We have 39,000 soldiers over there guarding you from Kim Jong Un, your next door neighbour, and you&#8217;re not going to help us on a very easy military operation in Iran. That&#8217;s strange&#8221;.\u003C/p\u003E\n\u003Ch2\u003EAlliance and Regional Context\u003C/h2\u003E\n\u003Cp\u003EThe reduction is an unprecedented curtailment of the joint drill and raises questions about the US commitment underpinning the alliance with South Korea.\u003C/p\u003E\n\u003Ch3\u003EConcerns Over Defence Commitment\u003C/h3\u003E\n\u003Cp\u003EThe move unsettles South Korean confidence that the United States would come to its assistance under their defence pact, which forms the basis of the countries&#8217; relationship. It also carries implications for other US regional allies, including Japan and Taiwan.\u003C/p\u003E\n\u003Ch3\u003EDiplomatic and Security Developments\u003C/h3\u003E\n\u003Cp\u003EThe drill changes come amid developments involving North Korea, Iran and the wider regional security environment.\u003C/p\u003E\n\u003Ch4\u003ENo Advance Notice\u003C/h4\u003E\n\u003Cp\u003EForeign Minister Cho Hyun told a parliamentary hearing that South Korean and US officials had not known in advance about Trump&#8217;s plans.\u003C/p\u003E\n\u003Ch4\u003EPossible Kim Meeting\u003C/h4\u003E\n\u003Cp\u003EUS officials told the Wall Street Journal that Trump is pressing his aides to arrange a meeting with Kim Jong Un.\u003C/p\u003E\n\u003Ch4\u003ENorth Korean Response\u003C/h4\u003E\n\u003Cp\u003EAfter last week&#8217;s press conference, North Korea&#8217;s foreign ministry described the joint exercises as &#8220;a rehearsal for an aggressive war&#8221;.\u003C/p\u003E\n\u003Ch2\u003EMilitary Factors\u003C/h2\u003E\n\u003Cp\u003EUS forces remain stationed in South Korea, while military planners have also cited North Korea&#8217;s involvement in Russia&#8217;s war against Ukraine.\u003C/p\u003E\n\u003Ch3\u003EUS Presence in South Korea\u003C/h3\u003E\n\u003Cp\u003EAbout 28,500 US military personnel are based in South Korea.\u003C/p\u003E\n\u003Ch3\u003EThreats Considered in Training\u003C/h3\u003E\n\u003Cp\u003EAt last week&#8217;s briefing, commanders referred to North Korea sending troops to support Russia&#8217;s war against Ukraine. US military spokesperson Ryan Donald said, &#8220;our training accounts for that threat&#8221;, referring to North Korean soldiers returning from the battlefield.\u003C/p\u003E\n\u003Ch2\u003EFrequently Asked Questions\u003C/h2\u003E\n\u003Cp\u003EBelow are common questions about the changes to the 2026 US-South Korea military exercise.\u003C/p\u003E\n\u003Ch5\u003E1. What is changing in the 2026 Ulchi Freedom Shield exercise?\u003C/h5\u003E\n\u003Cp\u003EThe exercise will end on 21 August rather than 27 August, reducing its duration by six days. South Korea also said part of the combined field training element would be reduced, although the exact changes remain under discussion.\u003C/p\u003E\n\u003Ch5\u003E2. Why does the shortened exercise matter?\u003C/h5\u003E\n\u003Cp\u003EThe change is an unprecedented curtailment of the joint drill and raises questions about the strength of the US defence commitment to South Korea. It may also affect how other regional allies, including Japan and Taiwan, view US security assurances.\u003C/p\u003E\n\u003Ch5\u003E3. What are the main security implications of the decision?\u003C/h5\u003E\n\u003Cp\u003EThe revised schedule could ease concerns expressed by Donald Trump about the cost and perceived political signal of the exercises, but it may also unsettle South Korean confidence in the alliance. The reduction comes as planners continue to account for threats linked to North Korea, including its support for Russia&#8217;s war against Ukraine.\u003C/p\u003E\n\u003Ch5\u003E4. How can readers follow further changes to the exercise?\u003C/h5\u003E\n\u003Cp\u003EReaders should monitor announcements from the South Korean defence ministry, US and South Korean military commanders, and other official statements for updates on the final field-training arrangements and exercise schedule.\u003C/p\u003E\n\u003Cp\u003E\u003Cem\u003EBased on reporting from \u003Ca href=\"https://www.bbc.co.uk/news/articles/cnvn0j31qj8o\" rel=\"nofollow noopener\" target=\"_blank\"\u003Ethe original report\u003C/a\u003E.\u003C/em\u003E\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EThe 2026 US-South Korea drills will end six days early after Washington requested changes to the exercise&#8217;s duration and scope.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1153,
+    "comment_status": "closed",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [13],
+    "tags": [61, 62, 64, 63, 60],
+    "class_list": [
+      "post-1154",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-trending-now",
+      "tag-2026-ulchi-freedom-shield",
+      "tag-south-korea-military-exercise",
+      "tag-ulchi-freedom-shield-2026",
+      "tag-us-south-korea-alliance",
+      "tag-us-south-korea-drills"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1154",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/comments?post=1154"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1154/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1234,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1154/revisions/1234"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media/1153"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media?parent=1154"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/categories?post=1154"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/tags?post=1154"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1082,
+    "date": "2026-08-12T06:15:44",
+    "date_gmt": "2026-08-12T06:15:44",
+    "guid": {
+      "rendered": "https://entertainmentcouch.com/burnham-cobra-talks-extreme-heat-warning/"
+    },
+    "modified": "2026-08-12T06:15:44",
+    "modified_gmt": "2026-08-12T06:15:44",
+    "slug": "burnham-cobra-talks-extreme-heat-warning",
+    "status": "publish",
+    "type": "post",
+    "link": "https://entertainmentcouch.com/health-wellness/burnham-cobra-talks-extreme-heat-warning/",
+    "title": {
+      "rendered": "Andy Burnham to Lead Cobra Talks Amid Extreme Heat"
+    },
+    "content": {
+      "rendered": "\u003Ch1\u003EBurnham to lead Cobra talks as another spell of extreme heat nears\u003C/h1\u003E\n\u003Cp\u003EPrime Minister Andy Burnham will convene the government&#8217;s Cobra emergency committee on Wednesday as another surge in temperatures approaches. The meeting will consider the UK&#8217;s response to extreme heat, with parts of England forecast to reach the mid-to-high 30s Celsius later this week.\u003C/p\u003E\n\u003Ch2\u003EGovernment response\u003C/h2\u003E\n\u003Cp\u003EThe planned Cobra meeting comes as the effects of a challenging summer are being felt across emergency services, health care, agriculture and water management.\u003C/p\u003E\n\u003Ch3\u003ECobra meeting on Wednesday\u003C/h3\u003E\n\u003Cp\u003EAndy Burnham is due to chair the government&#8217;s emergency Cobra committee on Wednesday. Ministers will discuss how the UK should respond as temperatures rise again.\u003C/p\u003E\n\u003Ch3\u003EPressure on frontline services\u003C/h3\u003E\n\u003Cp\u003EA No 10 spokesperson said the government recognised the weather-related difficulties confronting firefighters, farmers and NHS staff. Wildfires, drought conditions and busy A&amp;E units were identified as particular pressures.\u003C/p\u003E\n\u003Ch3\u003ECommitment to protective action\u003C/h3\u003E\n\u003Cp\u003EThe spokesperson said the government would continue taking the measures required to protect communities, preserve water supplies and safeguard the environment.\u003C/p\u003E\n\u003Ch2\u003ENew temperature records\u003C/h2\u003E\n\u003Cp\u003EMet Office figures show that the UK has already exceeded a longstanding annual benchmark for the number of days on which maximum temperatures pass 30C.\u003C/p\u003E\n\u003Ch3\u003EThirty-degree threshold surpassed\u003C/h3\u003E\n\u003Cp\u003ESeveral locations went above 30C on Sunday, bringing the total number of such days this year to 35. That exceeds the previous record of 34 days, set in 1995.\u003C/p\u003E\n\u003Ch3\u003EFurther highs expected\u003C/h3\u003E\n\u003Cp\u003EThe total is expected to increase again on Wednesday and Thursday. Temperatures are forecast to peak in the mid-to-high 30s across the Midlands and south-east of England, while 38C is possible on Thursday.\u003C/p\u003E\n\u003Ch2\u003EHeat risks across England\u003C/h2\u003E\n\u003Cp\u003EThursday is expected to bring the week&#8217;s most intense heat to several English regions, prompting both weather and health warnings.\u003C/p\u003E\n\u003Ch3\u003EAmber warnings in place\u003C/h3\u003E\n\u003Cp\u003EThe Met Office has issued a rare amber warning for extreme heat for Thursday. The UK Health Security Agency has also put amber heat health alerts in place across all of England until Friday evening. These alerts advise the public and medical professionals when hot or cold conditions threaten health, and indicate that major effects on social and health care, including increased deaths, are likely.\u003C/p\u003E\n\u003Ch3\u003EThursday forecast breakdown\u003C/h3\u003E\n\u003Cp\u003EThe hottest conditions are anticipated in a number of regions, with potential records for the season and for August.\u003C/p\u003E\n\u003Ch4\u003ERegions most affected\u003C/h4\u003E\n\u003Cp\u003EThe highest temperatures are forecast across the Midlands, Eastern England, London and south-east England, Yorkshire and Humber.\u003C/p\u003E\n\u003Ch4\u003EPotential 38C peak\u003C/h4\u003E\n\u003Cp\u003EA temperature of 38C would match the summer&#8217;s highest reading so far, recorded at Lingwood in Norfolk on 26 June. It would also represent the hottest August day since 2003, when 38.5C was measured.\u003C/p\u003E\n\u003Ch4\u003EUnprecedented monthly pattern\u003C/h4\u003E\n\u003Cp\u003EThis year is also likely to become the first in which four calendar months have recorded temperatures of at least 35C.\u003C/p\u003E\n\u003Ch2\u003EOutlook beyond southern England\u003C/h2\u003E\n\u003Cp\u003EThis heatwave is expected to be shorter than earlier episodes this summer, although conditions will remain unusually warm in some northern areas before a possible change at the weekend.\u003C/p\u003E\n\u003Ch3\u003EWarmth reaches Scotland and Northern Ireland\u003C/h3\u003E\n\u003Cp\u003EScotland and Northern Ireland are not expected to see heat as extreme as southern England. However, eastern Northern Ireland and southern and eastern Scotland will remain well above the heatwave threshold, with humidity likely to strengthen from Wednesday night into Thursday. Some locations could reach the mid-to-high 20s Celsius on Wednesday, compared with typical August daytime values in the high teens to low 20s.\u003C/p\u003E\n\u003Ch3\u003ECooler change and drought limits\u003C/h3\u003E\n\u003Cp\u003EWestern Scotland and western Northern Ireland should be relatively cooler because Atlantic cloud and occasional rain are expected. Although confidence in the detail is low, this may bring showers and possibly more prolonged rain. Temperatures should feel noticeably lower over the weekend, but easing drought would require months of above-average rainfall. More than two-thirds of England is now in drought.\u003C/p\u003E\n\u003Ch2\u003EFrequently Asked Questions\u003C/h2\u003E\n\u003Cp\u003EHere are answers to common questions about the UK’s approaching period of extreme heat.\u003C/p\u003E\n\u003Ch5\u003E1. What is the Cobra meeting about?\u003C/h5\u003E\n\u003Cp\u003EAndy Burnham is due to chair the government’s Cobra emergency committee on Wednesday to discuss the UK’s response to another rise in temperatures, with parts of England forecast to reach the mid-to-high 30s Celsius.\u003C/p\u003E\n\u003Ch5\u003E2. Why does the approaching heat matter?\u003C/h5\u003E\n\u003Cp\u003EExtreme heat is placing additional pressure on firefighters, farmers, NHS services and water management. The UK Health Security Agency says amber heat health alerts indicate that major effects on health and social care, including increased deaths, are possible.\u003C/p\u003E\n\u003Ch5\u003E3. What are the main implications of the latest forecast?\u003C/h5\u003E\n\u003Cp\u003EThe Met Office has issued an amber extreme-heat warning for Thursday, when temperatures could reach 38C in parts of England. The heat could also set seasonal and August records, while this year may become the first in which four calendar months record temperatures of at least 35C.\u003C/p\u003E\n\u003Ch5\u003E4. What should people do next?\u003C/h5\u003E\n\u003Cp\u003EPeople should monitor the Met Office forecast and UK Health Security Agency heat health alerts, particularly because alerts are in place across England until Friday evening. Medical professionals and the public can use these warnings to prepare for potentially hazardous conditions.\u003C/p\u003E\n\u003Cp\u003E\u003Cem\u003EBased on reporting from \u003Ca href=\"https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o\" rel=\"nofollow noopener\" target=\"_blank\"\u003Ethe original report\u003C/a\u003E.\u003C/em\u003E\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EAndy Burnham will chair Cobra talks as extreme heat returns, with temperatures forecast to reach 38C and amber health warnings in place.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1080,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [19],
+    "tags": [58, 59, 55, 57, 56],
+    "class_list": [
+      "post-1082",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-health-wellness",
+      "tag-38c-uk-temperature-forecast",
+      "tag-amber-heat-warning",
+      "tag-andy-burnham-cobra-talks",
+      "tag-cobra-emergency-committee",
+      "tag-uk-extreme-heat"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1082",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/comments?post=1082"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/1082/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media/1080"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media?parent=1082"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/categories?post=1082"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/tags?post=1082"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 793,
+    "date": "2026-08-05T06:15:31",
+    "date_gmt": "2026-08-05T06:15:31",
+    "guid": {
+      "rendered": "https://entertainmentcouch.com/marcus-rashford-manchester-united-return/"
+    },
+    "modified": "2026-08-08T09:37:43",
+    "modified_gmt": "2026-08-08T09:37:43",
+    "slug": "marcus-rashford-manchester-united-return",
+    "status": "publish",
+    "type": "post",
+    "link": "https://entertainmentcouch.com/sports/marcus-rashford-manchester-united-return/",
+    "title": {
+      "rendered": "Marcus Rashford Nears Manchester United Return After Barcelona Loan Ends"
+    },
+    "content": {
+      "rendered": "\n\u003Cp class=\"wp-block-paragraph\"\u003EMarcus Rashford is on the verge of returning to Manchester United after Barcelona decided not to activate the \u003Cstrong\u003E£26 million permanent transfer clause\u003C/strong\u003E in his loan agreement.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EDespite enjoying an impressive campaign in Spain, the Catalan club has opted against signing the England international permanently. As a result, Rashford is expected to rejoin Manchester United ahead of the \u003Cstrong\u003E2026-27 season\u003C/strong\u003E, unless another club submits a suitable offer before the transfer window closes.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EHis return could have a major impact on United&#8217;s squad planning, wage structure, and transfer strategy under manager \u003Cstrong\u003EMichael Carrick\u003C/strong\u003E.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhy Is Marcus Rashford Returning to Manchester United?\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ERashford joined Barcelona on a \u003Cstrong\u003Eseason-long loan in July 2025\u003C/strong\u003E after falling out of favor at Old Trafford.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EDuring his time in Spain, the 28-year-old enjoyed one of his most productive seasons, helping Barcelona win:\u003C/p\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003ELa Liga\u003C/li\u003E\n\n\n\n\u003Cli\u003ESpanish Super Cup\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EHe also played a key role in the club&#8217;s run to the \u003Cstrong\u003EUEFA Champions League quarter-finals\u003C/strong\u003E, contributing:\u003C/p\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003E\u003Cstrong\u003E11 goals\u003C/strong\u003E\u003C/li\u003E\n\n\n\n\u003Cli\u003E\u003Cstrong\u003E14 assists\u003C/strong\u003E\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EHowever, despite his impressive performances, Barcelona chose \u003Cstrong\u003Enot to activate the £26 million buy option\u003C/strong\u003E, sending Rashford back to Manchester United.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhy Barcelona Decided Against a Permanent Deal\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EInitially, many believed Barcelona&#8217;s decision was part of a strategy to negotiate another loan agreement.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EHowever, the Spanish champions significantly strengthened their attacking options by signing:\u003C/p\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003EKarim Adeyemi from Borussia Dortmund\u003C/li\u003E\n\n\n\n\u003Cli\u003EAnthony Gordon from the Premier League\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EWith their forward line already reinforced, Barcelona no longer needed Rashford on a permanent basis.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe England international acknowledged the end of his spell by posting an emotional farewell message, while Barcelona manager \u003Cstrong\u003EHansi Flick\u003C/strong\u003E praised both his performances and character.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003ERashford Expected to Join Manchester United&#8217;s Pre-Season Camp\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EUnless a late transfer materializes, Rashford is expected to report for Manchester United&#8217;s \u003Cstrong\u003EMaynooth training camp in Ireland\u003C/strong\u003E next week.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ELike other players involved in the World Cup, Rashford has been granted additional time off before returning to club duties.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAlthough a planned open training session has been cancelled, insiders expect him to begin working with the squad behind closed doors.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhen Could Rashford Play His First Match?\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ERashford&#8217;s first appearance of the new season will depend on his fitness and Michael Carrick&#8217;s evaluation.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EPossible pre-season fixtures include:\u003C/p\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003E\u003Cstrong\u003ELeeds United\u003C/strong\u003E at Croke Park on \u003Cstrong\u003E12 August\u003C/strong\u003E\u003C/li\u003E\n\n\n\n\u003Cli\u003E\u003Cstrong\u003EAC Milan\u003C/strong\u003E in Wroclaw on \u003Cstrong\u003E15 August\u003C/strong\u003E\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe AC Milan fixture will attract additional attention, with former Manchester United manager \u003Cstrong\u003ERuben Amorim\u003C/strong\u003E now leading the Italian club.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EHow Rashford&#8217;s Return Affects Manchester United&#8217;s Transfer Plans\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ERashford&#8217;s return could significantly influence Manchester United&#8217;s recruitment strategy.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ESince signing \u003Cstrong\u003EYouri Tielemans\u003C/strong\u003E for \u003Cstrong\u003E£35 million\u003C/strong\u003E, United&#8217;s transfer activity has slowed considerably.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EIf Rashford remains at Old Trafford, the club may reduce its urgency to recruit another:\u003C/p\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003ELeft winger\u003C/li\u003E\n\n\n\n\u003Cli\u003ECentre forward\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EHis ability to play across multiple attacking positions provides valuable squad depth while offering Carrick greater tactical flexibility.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EFinancial Impact of Keeping Rashford\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EWhile Rashford&#8217;s footballing ability remains unquestioned, his salary represents a major financial consideration.\u003C/p\u003E\n\n\n\n\u003Ch3 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EContract Details\u003C/strong\u003E\u003C/h3\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003EContract expires in \u003Cstrong\u003E2028\u003C/strong\u003E\u003C/li\u003E\n\n\n\n\u003Cli\u003EWeekly wage: \u003Cstrong\u003E£325,000\u003C/strong\u003E\u003C/li\u003E\n\n\n\n\u003Cli\u003EHighest-paid player at Manchester United\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EWith co-owner \u003Cstrong\u003ESir Jim Ratcliffe\u003C/strong\u003E aiming to reduce the club&#8217;s wage bill, retaining Rashford would continue to represent one of United&#8217;s largest financial commitments.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003ECan Michael Carrick Revive Rashford&#8217;s Manchester United Career?\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EOne factor working in Rashford&#8217;s favor is his long-standing relationship with manager Michael Carrick.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe pair have shared several roles over the years:\u003C/p\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003ETeam-mates at Manchester United\u003C/li\u003E\n\n\n\n\u003Cli\u003EPlayer and first-team coach\u003C/li\u003E\n\n\n\n\u003Cli\u003EManager and player during Carrick&#8217;s interim spell in 2021\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ECarrick is widely respected for his ability to develop attacking players, and many supporters believe he could help Rashford rediscover the consistency that once made him one of England&#8217;s most dangerous forwards.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EIs Another Transfer Still Possible?\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAlthough Rashford is expected to return, his future remains unresolved.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ESeveral Premier League and overseas clubs have reportedly expressed interest and could still submit offers before the \u003Cstrong\u003E1 September transfer deadline\u003C/strong\u003E.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EHowever, Manchester United have reportedly made their position clear:\u003C/p\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003EThey are \u003Cstrong\u003Enot interested in another loan deal\u003C/strong\u003E.\u003C/li\u003E\n\n\n\n\u003Cli\u003EThey are \u003Cstrong\u003Eunlikely to accept a significantly reduced transfer fee\u003C/strong\u003E.\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EUnless a suitable bid arrives, Rashford appears set to remain part of United&#8217;s plans for the upcoming season.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EMarcus Rashford&#8217;s Manchester United Legacy\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ERashford already ranks among Manchester United&#8217;s greatest modern goalscorers.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EHis achievements include:\u003C/p\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003E\u003Cstrong\u003E138 goals\u003C/strong\u003E for Manchester United\u003C/li\u003E\n\n\n\n\u003Cli\u003E\u003Cstrong\u003E15th\u003C/strong\u003E on the club&#8217;s all-time scoring list\u003C/li\u003E\n\n\n\n\u003Cli\u003EJust \u003Cstrong\u003E17 goals behind Paul Scholes\u003C/strong\u003E in the rankings\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAt just 28 years old, he still has the opportunity to climb even higher if he rediscovers his best form.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EKey Takeaways\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003EMarcus Rashford is expected to return to Manchester United after Barcelona declined their \u003Cstrong\u003E£26 million purchase option\u003C/strong\u003E.\u003C/li\u003E\n\n\n\n\u003Cli\u003ERashford enjoyed an excellent loan spell, recording \u003Cstrong\u003E11 goals and 14 assists\u003C/strong\u003E while helping Barcelona win \u003Cstrong\u003ELa Liga\u003C/strong\u003E and the \u003Cstrong\u003ESpanish Super Cup\u003C/strong\u003E.\u003C/li\u003E\n\n\n\n\u003Cli\u003EBarcelona&#8217;s signings of \u003Cstrong\u003EKarim Adeyemi\u003C/strong\u003E and \u003Cstrong\u003EAnthony Gordon\u003C/strong\u003E effectively ended hopes of another loan.\u003C/li\u003E\n\n\n\n\u003Cli\u003ERashford is expected to join Manchester United&#8217;s \u003Cstrong\u003EMaynooth training camp\u003C/strong\u003E ahead of the new season.\u003C/li\u003E\n\n\n\n\u003Cli\u003EHis return could influence Manchester United&#8217;s transfer strategy and reduce the need for another attacking signing.\u003C/li\u003E\n\n\n\n\u003Cli\u003ERashford remains under contract until \u003Cstrong\u003E2028\u003C/strong\u003E and earns \u003Cstrong\u003E£325,000 per week\u003C/strong\u003E, making him the club&#8217;s highest-paid player.\u003C/li\u003E\n\n\n\n\u003Cli\u003EMichael Carrick&#8217;s relationship with Rashford could play a crucial role in revitalizing his Manchester United career.\u003C/li\u003E\n\n\n\n\u003Cli\u003EWhile interest from other clubs remains, Manchester United are reportedly unwilling to sanction another loan or accept a heavily discounted transfer fee.\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Ch1 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EFrequently Asked Questions (FAQs)\u003C/strong\u003E\u003C/h1\u003E\n\n\n\n\u003Ch3 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhy is Marcus Rashford returning to Manchester United?\u003C/strong\u003E\u003C/h3\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EBarcelona chose not to activate the £26 million purchase option included in Rashford&#8217;s loan agreement. Unless another club makes an acceptable offer, he will return to Manchester United for the 2026-27 season.\u003C/p\u003E\n\n\n\n\u003Ch3 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhy didn&#8217;t Barcelona sign Rashford permanently?\u003C/strong\u003E\u003C/h3\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EDespite Rashford&#8217;s impressive performances, Barcelona strengthened their attack by signing Karim Adeyemi and Anthony Gordon, reducing the need to complete a permanent transfer.\u003C/p\u003E\n\n\n\n\u003Ch3 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhen could Rashford make his Manchester United return?\u003C/strong\u003E\u003C/h3\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ERashford is expected to attend Manchester United&#8217;s training camp in Maynooth before potentially featuring in pre-season matches against Leeds United or AC Milan, depending on his fitness.\u003C/p\u003E\n\n\n\n\u003Ch3 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EHow will Rashford&#8217;s return affect Manchester United&#8217;s transfer plans?\u003C/strong\u003E\u003C/h3\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EHis versatility allows him to play as both a left winger and striker, which may reduce Manchester United&#8217;s need to sign another attacking player during the current transfer window.\u003C/p\u003E\n\n\n\n\u003Ch3 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EHow much does Marcus Rashford earn at Manchester United?\u003C/strong\u003E\u003C/h3\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ERashford reportedly earns \u003Cstrong\u003E£325,000 per week\u003C/strong\u003E, making him Manchester United&#8217;s highest-paid player.\u003C/p\u003E\n\n\n\n\u003Ch3 class=\"wp-block-heading\"\u003E\u003Cstrong\u003ECould Rashford still leave Manchester United this summer?\u003C/strong\u003E\u003C/h3\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EYes. Premier League and overseas clubs are still monitoring his situation. However, Manchester United are reportedly unwilling to approve another loan deal or accept a significantly reduced transfer fee before the transfer window closes.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EMarcus Rashford is expected to return to Manchester United after Barcelona declined its £26m purchase option following his loan spell.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1042,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [16],
+    "tags": [52, 50, 53, 49, 51],
+    "class_list": [
+      "post-793",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-sports",
+      "tag-barcelona-26m-purchase-option",
+      "tag-manchester-united-return",
+      "tag-manchester-united-transfer-news",
+      "tag-marcus-rashford",
+      "tag-rashford-barcelona-loan"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/793",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/comments?post=793"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/793/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1043,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/793/revisions/1043"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media/1042"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media?parent=793"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/categories?post=793"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/tags?post=793"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 791,
+    "date": "2026-08-04T16:00:36",
+    "date_gmt": "2026-08-04T16:00:36",
+    "guid": {
+      "rendered": "https://entertainmentcouch.com/justice-secretary-apology-early-release-policy/"
+    },
+    "modified": "2026-09-04T19:14:46",
+    "modified_gmt": "2026-09-04T19:14:46",
+    "slug": "justice-secretary-apology-early-release-policy",
+    "status": "publish",
+    "type": "post",
+    "link": "https://entertainmentcouch.com/latest-news/justice-secretary-apology-early-release-policy/",
+    "title": {
+      "rendered": "UK Prison Early Release Policy: Justice Secretary Apologises as Victims&#8217; Families Condemn Changes"
+    },
+    "content": {
+      "rendered": "\n\u003Cp class=\"wp-block-paragraph\"\u003EThe UK government&#8217;s revised \u003Cstrong\u003Eprisoner early-release policy\u003C/strong\u003E has sparked strong criticism from victims&#8217; families, prompting \u003Cstrong\u003EJustice Secretary Alex Norris\u003C/strong\u003E to issue a public apology.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EWhile the government argues that the changes are necessary to prevent a prison overcrowding crisis in \u003Cstrong\u003EEngland and Wales\u003C/strong\u003E, many bereaved families believe the policy undermines justice and fails to adequately consider the impact on victims.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EHere&#8217;s everything you need to know about the revised early-release scheme, why it has caused controversy, and what it means for prisoners, victims, and the justice system.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhy Is the UK Changing Its Prison Early-Release Policy?\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe government says prisons in England and Wales are operating under significant capacity pressure.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EWithout changes to prisoner release rules, ministers warn that overcrowding could become severe enough to threaten the effective operation of the prison system and potentially increase risks to public safety.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ETo address this issue, the revised policy will gradually allow eligible prisoners serving fixed-term sentences to be released earlier while remaining under licence and supervision.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EHowever, the proposal has been met with widespread concern from victims&#8217; families and criminal justice organisations.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EVictims&#8217; Families Say Justice Is Being Undermined\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ESeveral high-profile families have spoken publicly against the revised policy, arguing that early release diminishes accountability for serious crimes.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EMany say they fear offenders could return to the community sooner than expected without victims receiving sufficient support or notice.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EFamily of PC Andrew Harper Speaks Out\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAmong the most vocal critics is \u003Cstrong\u003EDebbie Adlam\u003C/strong\u003E, the mother of \u003Cstrong\u003EPC Andrew Harper\u003C/strong\u003E, who was killed in 2019 after being dragged behind a vehicle while responding to the theft of a quad bike in Berkshire.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAlthough the driver, \u003Cstrong\u003EHenry Long\u003C/strong\u003E, is not eligible for early release under the scheme, concerns remain that \u003Cstrong\u003EJessie Cole\u003C/strong\u003E and \u003Cstrong\u003EAlbert Bowers\u003C/strong\u003E, who were convicted of manslaughter, could still qualify.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAdlam said she was &#8220;devastated&#8221; by the possibility and confirmed that Justice Secretary Alex Norris personally contacted her to explain the government&#8217;s position and apologise.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EShe also urged authorities to ensure:\u003C/p\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003EFamilies receive advance notice of any release.\u003C/li\u003E\n\n\n\n\u003Cli\u003EVictims have access to probation support.\u003C/li\u003E\n\n\n\n\u003Cli\u003EBetter communication exists throughout the release process.\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EPC Harper&#8217;s widow, \u003Cstrong\u003ELissie Harper\u003C/strong\u003E, described the situation as &#8220;disgusting,&#8221; while \u003Cstrong\u003EThames Valley Police Chief Constable Jason Hogg\u003C/strong\u003E said the policy would be deeply demoralising for police officers.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EOther Bereaved Families Raise Concerns\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EOther families affected by violent crime have also criticised the government&#8217;s approach.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003E\u003Cstrong\u003ECalvin Buckley\u003C/strong\u003E, whose partner \u003Cstrong\u003EFrankie Jules-Hough\u003C/strong\u003E and unborn child were killed in a road collision in 2023, argued that victims should not bear the burden of solving prison overcrowding.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ESimilarly, \u003Cstrong\u003EClaire Corkery\u003C/strong\u003E, whose parents \u003Cstrong\u003ESue and Tom Corkery\u003C/strong\u003E died after being struck by a speeding driver in 2024, questioned whether the revised policy sends the message that some victims&#8217; lives are valued less than others.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhich Offenders Will No Longer Qualify?\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EFollowing public criticism, the government announced significant changes to the original proposal.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe revised scheme now excludes offenders convicted of:\u003C/p\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003ERape\u003C/li\u003E\n\n\n\n\u003Cli\u003EGrooming offences\u003C/li\u003E\n\n\n\n\u003Cli\u003ESerious child sexual offences\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAccording to ministers, these additional exclusions mean approximately \u003Cstrong\u003E1,000 prisoners\u003C/strong\u003E who were previously expected to qualify will now remain in custody until their existing release dates.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhy the Government Says Broader Exemptions Are Not Possible\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EDespite growing pressure from campaigners, the government insists that expanding the list of excluded offences further could create a serious prison capacity crisis.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EPrime Minister \u003Cstrong\u003EAndy Burnham\u003C/strong\u003E acknowledged the public&#8217;s &#8220;anger, anxiety and distress&#8221; but warned that overcrowded prisons could ultimately increase risks to public safety.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EJustice Secretary Alex Norris also stressed that while additional exclusions had been introduced, extending them much further could undermine the purpose of the reforms.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EHow the New Early-Release Scheme Will Work\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe revised policy will begin in \u003Cstrong\u003EOctober\u003C/strong\u003E and will be introduced gradually over several stages.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ERather than applying to every eligible prisoner immediately, releases will occur in controlled phases to manage prison populations safely.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EGovernment officials estimate that approximately:\u003C/p\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003E\u003Cstrong\u003E5,000 additional prisoners\u003C/strong\u003E will be released through the scheme.\u003C/li\u003E\n\n\n\n\u003Cli\u003EAround \u003Cstrong\u003E4,500 prisoners\u003C/strong\u003E already leave prison each month under existing arrangements.\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe Prison Governors&#8217; Association has warned that recalculating sentence eligibility may place significant additional pressure on prison and probation services.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWho Will Be Eligible for Earlier Release?\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EEligibility is primarily based on \u003Cstrong\u003Esentence length\u003C/strong\u003E rather than the specific offence committed.\u003C/p\u003E\n\n\n\n\u003Ch3 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EPrisoners serving four years or longer\u003C/strong\u003E\u003C/h3\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EEligible prisoners serving sentences of \u003Cstrong\u003Efour years or more\u003C/strong\u003E for certain offences may become eligible for release after serving \u003Cstrong\u003Ehalf of their sentence\u003C/strong\u003E, instead of the previous \u003Cstrong\u003Etwo-thirds\u003C/strong\u003E.\u003C/p\u003E\n\n\n\n\u003Ch3 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EPrisoners serving shorter sentences\u003C/strong\u003E\u003C/h3\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThose serving shorter custodial sentences could become eligible for release after serving \u003Cstrong\u003Eone-third of their sentence\u003C/strong\u003E, rather than half.\u003C/p\u003E\n\n\n\n\u003Ch3 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EGradual rollout\u003C/strong\u003E\u003C/h3\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe reforms will initially apply to prisoners serving sentences below \u003Cstrong\u003E575 days\u003C/strong\u003E before expanding in stages to include those serving sentences of up to \u003Cstrong\u003E12 years\u003C/strong\u003E by \u003Cstrong\u003EJune 2027\u003C/strong\u003E.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EStronger Supervision After Release\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe government says early release does not mean offenders are free from supervision.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EEveryone released under the scheme will remain on licence and must comply with strict conditions.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EIn addition, offenders convicted of rape or serious child sexual offences who complete their full prison terms will face strengthened monitoring and supervision once released into the community.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EAdditional Support for Victims\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAlongside the revised policy, the government has announced increased investment in victim services.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003ENew measures include:\u003C/p\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003E\u003Cstrong\u003E£10 million\u003C/strong\u003E in additional funding for front-line victim support organisations.\u003C/li\u003E\n\n\n\n\u003Cli\u003EA new \u003Cstrong\u003Enational victim support helpline\u003C/strong\u003E.\u003C/li\u003E\n\n\n\n\u003Cli\u003EGreater consultation with victims before eligible prisoners are released.\u003C/li\u003E\n\n\n\n\u003Cli\u003EImproved communication between probation services and affected families.\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhy the Policy Remains Controversial\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAlthough ministers argue the reforms are necessary to prevent overcrowding, many victims&#8217; families believe prison capacity issues should not come at the expense of justice.\u003C/p\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe debate highlights the difficult balance between:\u003C/p\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003EMaintaining public safety.\u003C/li\u003E\n\n\n\n\u003Cli\u003EManaging prison overcrowding.\u003C/li\u003E\n\n\n\n\u003Cli\u003EProtecting victims&#8217; rights.\u003C/li\u003E\n\n\n\n\u003Cli\u003ESupporting rehabilitation.\u003C/li\u003E\n\n\n\n\u003Cli\u003EPreserving confidence in the criminal justice system.\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EAs the policy begins rolling out later this year, its implementation and impact are likely to remain under close public and political scrutiny.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EKey Takeaways\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cul class=\"wp-block-list\"\u003E\n\u003Cli\u003EJustice Secretary \u003Cstrong\u003EAlex Norris\u003C/strong\u003E apologised to victims&#8217; families over the revised prisoner early-release policy.\u003C/li\u003E\n\n\n\n\u003Cli\u003EThe government says the reforms are necessary to prevent a prison overcrowding crisis in England and Wales.\u003C/li\u003E\n\n\n\n\u003Cli\u003EOffenders convicted of \u003Cstrong\u003Erape, grooming, and serious child sexual offences\u003C/strong\u003E have now been excluded from early release.\u003C/li\u003E\n\n\n\n\u003Cli\u003EAround \u003Cstrong\u003E1,000 prisoners\u003C/strong\u003E are expected to lose eligibility following the revised exclusions.\u003C/li\u003E\n\n\n\n\u003Cli\u003EThe phased rollout begins in \u003Cstrong\u003EOctober\u003C/strong\u003E and expands gradually through \u003Cstrong\u003EJune 2027\u003C/strong\u003E.\u003C/li\u003E\n\n\n\n\u003Cli\u003EEligible prisoners may serve a smaller proportion of their sentence before being released on licence.\u003C/li\u003E\n\n\n\n\u003Cli\u003EThe government has pledged \u003Cstrong\u003E£10 million\u003C/strong\u003E in additional funding for victim support and plans to launch a national helpline.\u003C/li\u003E\n\n\n\n\u003Cli\u003EVictims&#8217; families continue to argue that early release weakens accountability and diminishes justice.\u003C/li\u003E\n\u003C/ul\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EFrequently Asked Questions (FAQs)\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhat is the UK&#8217;s revised prisoner early-release policy?\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe policy allows certain prisoners serving fixed-term sentences to be released earlier than under previous rules while remaining on licence and subject to supervision. The reforms will be introduced gradually from October.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhy are victims&#8217; families opposed to the policy?\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EMany families believe earlier release reduces accountability for serious offences and causes additional emotional distress. They also want better communication and support before offenders are released.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhich offenders are excluded from the scheme?\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe revised policy excludes prisoners convicted of rape, grooming offences, and serious child sexual offences from qualifying for early release.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhy is the government introducing these reforms?\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe government says overcrowding in prisons has reached a critical level. Ministers argue that carefully managed early releases are necessary to maintain prison capacity and protect public safety.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWill prisoners released early still be supervised?\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EYes. Prisoners released under the scheme will remain on licence and must comply with strict conditions. Breaching those conditions could result in being returned to prison.\u003C/p\u003E\n\n\n\n\u003Ch2 class=\"wp-block-heading\"\u003E\u003Cstrong\u003EWhat support will victims receive?\u003C/strong\u003E\u003C/h2\u003E\n\n\n\n\u003Cp class=\"wp-block-paragraph\"\u003EThe government has announced an additional \u003Cstrong\u003E£10 million\u003C/strong\u003E for victim support services, enhanced consultation with affected families, and the creation of a new national victim support helpline.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EJustice Secretary Alex Norris apologises to families as England and Wales revises its early-release policy amid prison capacity warnings.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1046,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [21],
+    "tags": [46, 44, 47, 48, 45],
+    "class_list": [
+      "post-791",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-latest-news",
+      "tag-alex-norris-apology",
+      "tag-early-release-policy",
+      "tag-england-and-wales-prisons",
+      "tag-prison-capacity-crisis",
+      "tag-prisoner-early-release"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/791",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/comments?post=791"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/791/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1544,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/posts/791/revisions/1544"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media/1046"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/media?parent=791"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/categories?post=791"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://entertainmentcouch.com/wp-json/wp/v2/tags?post=791"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
