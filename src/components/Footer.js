@@ -66,14 +66,14 @@ export default function Footer() {
         <div>
           <h4 className="mb-4 text-sm font-bold tracking-wide">CONTACT US</h4>
           <a
-            href="mailto:info@entertainmentcouch.com"
+            href="mailto:info.entertainmentcouch@gmail.com"
             className="flex items-center gap-2 text-sm text-muted hover:text-brand"
           >
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <rect x="3" y="5" width="18" height="14" rx="2" />
               <path d="m3 7 9 6 9-6" />
             </svg>
-            info@entertainmentcouch.com
+           info.entertainmentcouch@gmail.com
           </a>
           <div className="mt-5 flex items-center gap-3">
             {socials.map((s) => (

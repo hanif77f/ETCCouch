@@ -17,7 +17,7 @@ export function PopularThisWeek({ blogs }) {
             <li key={blog.slug}>
               <Link href={`/blog/${blog.slug}`} className="group flex gap-3">
                 <span
-                  className="h-14 w-16 shrink-0 overflow-hidden rounded-md bg-cover bg-center"
+                  className="h-14 w-25 shrink-0 overflow-hidden rounded-md bg-cover bg-center"
                   style={{ backgroundImage: `url(${blog.image})` }}
                 />
                 <span className="flex flex-col">

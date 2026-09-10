@@ -170,7 +170,7 @@ export default function TermsPage() {
           <h2 id="contact">12. Contact Information</h2>
           <p>
             Questions about these terms? <Link href="/contact">Contact us</Link> or email us directly at{" "}
-            <a href="mailto:info@entertainmentcouch.com">info@entertainmentcouch.com</a>.
+            <a href="mailto:info.entertainmentcouch@gmail.com">info.entertainmentcouch@gmail.com</a>.
           </p>
         </article>
       </div>

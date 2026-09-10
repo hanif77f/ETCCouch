@@ -159,7 +159,7 @@ export default function PrivacyPolicyPage() {
           <h2 id="contact">11. Contact Us</h2>
           <p>
             Questions about this policy or your information? <Link href="/contact">Contact us</Link> or email
-            us directly at <a href="mailto:info@entertainmentcouch.com">info@entertainmentcouch.com</a>.
+            us directly at <a href="mailto:info.entertainmentcouch@gmail.com">info.entertainmentcouch@gmail.com</a>.
           </p>
         </article>
       </div>

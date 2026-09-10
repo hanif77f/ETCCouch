@@ -31,7 +31,7 @@ export const GAMES = [
     description:
       "Play Connect 4 online free against the computer or a friend. Drop your discs and connect four in a row — horizontally, vertically or diagonally — before your opponent does. Choose Easy, Medium or Hard to play Connect 4 vs computer on a Minimax-powered engine, or invite a friend for Connect 4 multiplayer. No download or sign-up needed.",
     cover:
-      "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&q=80",
+      "/images/games/tictactoe-etc.png",
     players: "1–2 players",
     accent: "#7C4DC4",
     difficulties: ["Easy", "Medium", "Hard"],

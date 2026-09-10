@@ -34,10 +34,22 @@ export default async function HomePage() {
   const blogs = await getAllBlogs();
 
   const slides = HERO_SLUGS.map((slug) => getCategoryBySlug(slug)).filter(Boolean);
-  const trending = blogs.slice(0, 6);
-  const editorsPick = blogs.slice(0, 6);
-  const popular = blogs.slice(0, 5);
-  const latest = blogs.slice(0, 3);
+  const trending = blogs.filter((b) => b.category === "latest-news").slice(0, 6);
+
+const editorsPick = [
+  ...blogs.filter((b) => b.category === "technology-ai"),
+  ...blogs.filter((b) => b.category === "sports"),
+].slice(0, 6);
+
+const popular = blogs
+  .filter((b) => ["movies-tv", "health-wellness"].includes(b.category))
+  .slice(0, 5);
+
+const latest = blogs
+  .filter((b) =>
+    ["sports", "technology-ai", "trending-now"].includes(b.category)
+  )
+  .slice(0, 3);
 
   const counts = categories.reduce((acc, c) => {
     acc[c.slug] = blogs.filter((b) => b.category === c.slug).length;
@@ -81,7 +93,7 @@ export default async function HomePage() {
         </aside>
       </div>
 
-      <div className="container-page">
+      <div className="container-page !w-full !max-w-[1280px]">
         <h2 className="section-heading mb-6 font-display">Latest Updated</h2>
         <div className="grid grid-cols-1 gap-6 lg:grid-cols-[1fr_1fr]">
           <ul className="flex flex-col divide-y divide-black/5">
@@ -89,7 +101,7 @@ export default async function HomePage() {
               const category = getCategoryBySlug(blog.category);
               return (
                 <li key={blog.slug} className="flex gap-4 py-4 first:pt-0">
-                  <Link href={`/blog/${blog.slug}`} className="h-20 w-28 shrink-0 overflow-hidden rounded-lg">
+                  <Link href={`/blog/${blog.slug}`} className="h-20 w-28 shrink-0 overflow-hidden ">
                     <img src={blog.image} alt={blog.title} className="h-full w-full " />
                   </Link>
                   <div className="flex flex-col justify-center">

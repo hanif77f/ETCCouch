@@ -1,4 +1,4 @@
-import { Timer, CalendarRange, Globe, Cake } from "lucide-react";
+import { Timer, CalendarRange, Globe, Cake, Type } from "lucide-react";
 
 /**
  * Per-tool visual identity — same pattern as `src/data/gameThemes.js`.
@@ -21,6 +21,10 @@ export const TOOL_THEMES = {
   "age-calculator": {
     Icon: Cake,
     rgb: "74 34 134", // primary, deep
+  },
+  "word-counter-text-tools": {
+    Icon: Type,
+    rgb: "98 50 170",
   },
 };
 

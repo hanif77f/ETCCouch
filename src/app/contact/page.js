@@ -83,14 +83,14 @@ export default function ContactPage() {
           <div className="rounded-xl bg-zinc-50 p-5">
             <h3 className="mb-3 text-sm font-bold tracking-wide text-ink">EMAIL US</h3>
             <a
-              href="mailto:info@entertainmentcouch.com"
+              href="mailto:info.entertainmentcouch@gmail.com"
               className="flex items-center gap-2 text-sm font-medium text-ink/80 hover:text-brand"
             >
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                 <rect x="3" y="5" width="18" height="14" rx="2" />
                 <path d="m3 7 9 6 9-6" />
               </svg>
-             info@entertainmentcouch.com
+           info.entertainmentcouch@gmail.com
             </a>
             <p className="mt-3 text-xs leading-5 text-muted">
               Prefer email? Write to us directly and we&apos;ll route your message to the right person.

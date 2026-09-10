@@ -185,7 +185,7 @@ export default function HeroSlider({ slides }) {
             ))}
           </div>
 
-          <div className="absolute right-4 top-5 z-10 flex gap-2 md:right-7 md:top-1/2 md:-translate-y-1/2 md:flex-col">
+          <div className="hidden absolute right-4 top-5 z-10 flex gap-2 md:right-7 md:top-1/2 md:-translate-y-1/2 md:flex-col">
             <button
               type="button"
               onClick={() => showSlide(index - 1)}

@@ -2,7 +2,14 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import JsonLd from "@/components/JsonLd";
-import { SITE_NAME, SITE_TITLE, SITE_DESCRIPTION, SITE_URL, TWITTER_HANDLE } from "@/lib/site";
+import Script from "next/script";
+import {
+  SITE_NAME,
+  SITE_TITLE,
+  SITE_DESCRIPTION,
+  SITE_URL,
+  TWITTER_HANDLE,
+} from "@/lib/site";
 import { websiteSchema, organizationLd } from "@/lib/schema";
 
 export const metadata = {
@@ -74,9 +81,28 @@ export default function RootLayout({ children }) {
       <body className="min-h-screen flex flex-col bg-white text-ink antialiased">
         <JsonLd data={websiteSchema()} />
         <JsonLd data={organizationLd()} />
+
         <Navbar />
+
         <main className="flex-1">{children}</main>
+
         <Footer />
+
+        {/* Google Analytics */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-7QDQT0YZ0J"
+          strategy="afterInteractive"
+        />
+
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-7QDQT0YZ0J');
+          `}
+        </Script>
       </body>
     </html>
   );

@@ -97,16 +97,6 @@ export const categories = [
     inNav: false,
   },
   {
-    slug: "celebrity",
-    name: "Celebrity",
-    color: "#c026d3",
-    tint: "#fae8ff",
-    tagline: "Who's doing what, and why it matters",
-    description:
-      "The people everyone's talking about — appearances, milestones and the stories behind the headlines.",
-    heroImage: "/categoriespages/celibrity.jpg",
-  },
-  {
     slug: "drama",
     name: "Drama",
     color: "#9f1239",

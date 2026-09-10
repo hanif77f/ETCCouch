@@ -1,7 +1,7 @@
 // Central site-wide constants used for SEO metadata, Open Graph tags and
 // structured data. Update SITE_URL once this site has a real production
 // domain — it feeds canonical URLs, the sitemap and JSON-LD.
-export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "https://www.entertainmentcouch.com").replace(/\/$/, "");
+export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "https://entertainmentcouch.com").replace(/\/$/, "");
 export const SITE_NAME = "ETC Entertainment Couch";
 export const SITE_TITLE = "ETC | Entertainment Couch";
 export const SITE_DESCRIPTION =

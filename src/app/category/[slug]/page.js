@@ -91,8 +91,11 @@ export default async function CategoryPage({ params }) {
     />
   </picture>
 
+  {/* White overlay for better text visibility */}
+  <div className="absolute inset-0 bg-gradient-to-r from-white/85 via-white/55 to-transparent" />
+
   {/* Content */}
-  <div className="container-page absolute inset-0 flex items-center">
+  <div className="container-page absolute inset-0 z-10 flex items-center">
     <div className="max-w-xl">
       <p
         className="mb-3 text-xs font-bold uppercase tracking-[0.2em]"
@@ -124,7 +127,7 @@ export default async function CategoryPage({ params }) {
         <div className="flex flex-col gap-8">
           <div className="flex items-center justify-between">
             <h2 className="section-heading font-display">Latest in {category.name}</h2>
-            <Link href="/create-blog" className="text-xs font-bold tracking-wide text-brand">
+            <Link href="/create-blog" className="hidden text-xs font-bold tracking-wide text-brand">
               + WRITE A POST
             </Link>
           </div>
