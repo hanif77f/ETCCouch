@@ -89,14 +89,37 @@ export function blogPostingSchema(blog, category) {
     description: blog.excerpt,
     image: [absoluteUrl(blog.image)],
     datePublished: blog.date,
-    dateModified: blog.date,
+    // Auto-generated posts carry their own updatedAt; hardcoded ones don't.
+    dateModified: blog.updatedAt || blog.date,
     author: {
       "@type": "Person",
       name: blog.author,
     },
     publisher: organizationSchema(),
     articleSection: category?.name,
-    keywords: [category?.name, "ETC", "Entertainment Couch"].filter(Boolean).join(", "),
+    keywords: (blog.keywords?.length
+      ? blog.keywords
+      : [category?.name, "ETC", "Entertainment Couch"]
+    )
+      .filter(Boolean)
+      .join(", "),
+    ...(blog.wordCount ? { wordCount: blog.wordCount } : {}),
+  };
+}
+
+// The auto-blog backend ships an FAQ block with most generated articles.
+// Marking it up makes it eligible for the FAQ rich result in search.
+export function faqPageSchema(faqs = []) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs
+      .filter((f) => f?.question && f?.answer)
+      .map((f) => ({
+        "@type": "Question",
+        name: f.question,
+        acceptedAnswer: { "@type": "Answer", text: f.answer },
+      })),
   };
 }
 

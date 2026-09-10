@@ -15,5 +15,10 @@ export const SOCIAL_LINKS = [
 ];
 
 export function absoluteUrl(path = "/") {
+  // Cover images on auto-generated posts are already absolute URLs pointing
+  // at the blogs backend — prefixing SITE_URL would corrupt them, so pass
+  // anything that already has a scheme (or is protocol-relative) straight
+  // through.
+  if (/^(https?:)?\/\//i.test(path)) return path;
   return `${SITE_URL}${path.startsWith("/") ? path : `/${path}`}`;
 }

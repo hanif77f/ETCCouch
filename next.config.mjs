@@ -4,6 +4,13 @@ const nextConfig = {
     remotePatterns: [
       { protocol: "https", hostname: "images.unsplash.com" },
       { protocol: "https", hostname: "source.unsplash.com" },
+      // Cover images for the auto-generated blogs are served by the blogs
+      // backend out of /uploads/covers/YYYY/MM/.
+      {
+        protocol: "https",
+        hostname: "blogsautobackend.entertainmentcouch.com",
+        pathname: "/uploads/**",
+      },
     ],
   },
   // The "Create New Blog" form submits its cover image through a Server
