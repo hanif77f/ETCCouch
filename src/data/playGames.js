@@ -31,7 +31,7 @@ export const GAMES = [
     description:
       "Play Connect 4 online free against the computer or a friend. Drop your discs and connect four in a row — horizontally, vertically or diagonally — before your opponent does. Choose Easy, Medium or Hard to play Connect 4 vs computer on a Minimax-powered engine, or invite a friend for Connect 4 multiplayer. No download or sign-up needed.",
     cover:
-      "/images/games/tictactoe-etc.png",
+      "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&q=80",
     players: "1–2 players",
     accent: "#7C4DC4",
     difficulties: ["Easy", "Medium", "Hard"],
@@ -46,7 +46,7 @@ export const GAMES = [
     description:
       "Play Tic Tac Toe online free against the computer or a friend. The classic 3×3 game of Xs and Os — get three in a row to win. Choose Easy or Medium for a fair fight, or try Perfect difficulty, where the Minimax AI never loses. No download or sign-up needed, just quick Tic Tac Toe with friends in seconds.",
     cover:
-      "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&q=80",
+      "/images/games/tictactoe-etc.png",
     players: "1–2 players",
     accent: "#8F63D6",
     difficulties: ["Easy", "Medium", "Perfect"],

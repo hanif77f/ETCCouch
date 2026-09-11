@@ -5,14 +5,14 @@
  */
 export const TOOLS = [
   {
-  slug: "word-counter-text-tools",
-  name: "Word Counter & Text Tools",
-  category: "Text Tools",
-  shortDescription:
-    "Free online word counter, character counter, case converter, and text formatter. Count words, characters, sentences, and paragraphs instantly.",
-  description:
-    "A free online word counter and text tools suite for counting words and characters, converting text case, formatting text, finding and replacing text, generating slugs, checking word frequency, encoding Base64, and more."
-},
+    slug: "word-counter-text-tools",
+    name: "Word Counter & Text Tools",
+    category: "Text Tools",
+    shortDescription:
+      "Free online word counter, character counter, case converter, and text formatter. Count words, characters, sentences, and paragraphs instantly.",
+    description:
+      "A free online word counter and text tools suite for counting words and characters, converting text case, formatting text, finding and replacing text, generating slugs, checking word frequency, encoding Base64, and more.",
+  },
   {
     slug: "epoch-timestamp-converter",
     name: "Epoch & Timestamp Converter",
@@ -21,6 +21,15 @@ export const TOOLS = [
       "Convert Unix epoch time to human-readable dates and back — free online timestamp converter.",
     description:
       "Convert Unix epoch/timestamp values to human-readable dates and back, in any timezone. A free online epoch & timestamp converter for developers — no download, no sign-up.",
+  },
+  {
+    slug: "gauge-calculators",
+    name: "Gauge-BMI Mortgage Tools",
+    category: "Calculator",
+    shortDescription:
+      "Free online BMI calculator, mortgage payment calculator, and percentage calculator — all in one tool.",
+    description:
+      "A free online calculator suite for checking your body mass index and healthy weight range, estimating a monthly mortgage payment in any of 158 currencies, and working out percentages three different ways — no download, no sign-up.",
   },
   // {
   //   slug: "date-difference-calculator",
@@ -56,4 +65,3 @@ export const TOOLS_BY_SLUG = Object.fromEntries(TOOLS.map((t) => [t.slug, t]));
 
 export const getTool = (slug) => TOOLS_BY_SLUG[slug] || null;
 export const getToolSlugs = () => TOOLS.map((t) => t.slug);
-

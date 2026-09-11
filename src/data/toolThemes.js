@@ -1,4 +1,4 @@
-import { Timer, CalendarRange, Globe, Cake, Type } from "lucide-react";
+import { Timer, CalendarRange, Globe, Cake, Type, Gauge } from "lucide-react";
 
 /**
  * Per-tool visual identity — same pattern as `src/data/gameThemes.js`.
@@ -9,6 +9,10 @@ export const TOOL_THEMES = {
   "epoch-timestamp-converter": {
     Icon: Timer,
     rgb: "98 50 170", // primary #6232AA
+  },
+  "gauge-calculators": {
+    Icon: Gauge,
+    rgb: "121 71 189", // primary, lifted — distinct from epoch's exact shade
   },
   "date-difference-calculator": {
     Icon: CalendarRange,
@@ -34,4 +38,3 @@ const FALLBACK = {
 };
 
 export const getToolTheme = (slug) => TOOL_THEMES[slug] || FALLBACK;
-
