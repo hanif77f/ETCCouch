@@ -18,7 +18,7 @@ export function PopularThisWeek({ blogs }) {
               <Link href={`/blog/${blog.slug}`} className="group flex gap-3">
                 <span
                   className="h-14 w-25 shrink-0 overflow-hidden rounded-md bg-cover bg-center"
-                  style={{ backgroundImage: `url(${blog.image})` }}
+                  style={{ backgroundImage: `url("${blog.image}")` }}
                 />
                 <span className="flex flex-col">
                   <span className="line-clamp-2 text-[13px] font-semibold leading-5 text-ink group-hover:text-brand">
